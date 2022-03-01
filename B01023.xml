@@ -1,0 +1,1258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britaines glorie, or An allegoricall dreame: with the exposition thereof. Containing [brace]the heathens infidelitie, the Turkes blasphemie, the popes hypocrisie, Amsterdams varietie, the Church of Englands veritie [brace] in religion. And in our Church of England, [brace] the kings excellency. His issues integritie. The nobles and gentries constancie. The councels and iudges fidelitie. The preachers puritie. The bishops sinceritie. / Conceiued and written by Robert Carlyle gent. for the loue and honour of his king and country.</title>
+            <author>Carliell, Robert, d. 1622?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01023</idno>
+            <idno type="STC">STC 4650</idno>
+            <idno type="STC">ESTC S91360</idno>
+            <idno type="EEBO-CITATION">44920322</idno>
+            <idno type="OCLC">ocm 44920322</idno>
+            <idno type="VID">173768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2096:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britaines glorie, or An allegoricall dreame: with the exposition thereof. Containing [brace]the heathens infidelitie, the Turkes blasphemie, the popes hypocrisie, Amsterdams varietie, the Church of Englands veritie [brace] in religion. And in our Church of England, [brace] the kings excellency. His issues integritie. The nobles and gentries constancie. The councels and iudges fidelitie. The preachers puritie. The bishops sinceritie. / Conceiued and written by Robert Carlyle gent. for the loue and honour of his king and country.</title>
+                  <author>Carliell, Robert, d. 1622?</author>
+               </titleStmt>
+               <extent>[12], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Elde,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1618.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A³, B-D⁸.</note>
+                  <note>Reproduction of original in: Dyce Collection, Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patriotism --  Great Britain --  Early works to 1800.</term>
+               <term>Patriotic literature, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173768:1"/>
+            <pb facs="tcp:173768:1"/>
+            <p>BRITAINES GLORIE, OR An Allegoricall Dreame: with the Expoſition thereof.</p>
+            <p>Contai<g ref="char:EOLhyphen"/>ning,
+<list>
+                  <item>
+                     <hi>The Heathens infidelitie</hi>
+                  </item>
+                  <item>
+                     <hi>The Turkes blaſphemie</hi>
+                  </item>
+                  <item>
+                     <hi>The Popes Hypocriſie</hi>
+                  </item>
+                  <item>
+                     <hi>Amſterdams varietie</hi>
+                  </item>
+                  <item>
+                     <hi>The Church of Englands verity</hi>
+                  </item>
+               </list> in Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>And in our Church of England,
+<list>
+                  <item>
+                     <hi>The Kings excellencie.</hi>
+                  </item>
+                  <item>
+                     <hi>His Iſſues integritie.</hi>
+                  </item>
+                  <item>
+                     <hi>The Nobles and Gentries conſtancie.</hi>
+                  </item>
+                  <item>
+                     <hi>The Councell and Iudges fidelities.</hi>
+                  </item>
+                  <item>
+                     <hi>The Preachers puritie.</hi>
+                  </item>
+                  <item>
+                     <hi>The Biſhops ſinceritie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Conceiued and written by ROBERT CARLYLE <hi>Gent.</hi> for the loue and honour of his King and Countrie.</p>
+            <p>LONDON, Printed by GEORGE ELDE 1618.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173768:2"/>
+            <head>Directions for the Reader.</head>
+            <list>
+               <item>
+                  <hi>THe</hi> Dreame <hi>is implicate, or Allegoricall, in Verſe.</hi>
+               </item>
+               <item>
+                  <hi>The</hi> Expoſition <hi>is explicate, in Proſe.</hi>
+               </item>
+               <item>
+                  <hi>The</hi> Staffes <hi>are</hi> numbred <hi>for the ſpeedie turning to the</hi> Expo<g ref="char:EOLhyphen"/>ſition <hi>of euery</hi> Staffe; <hi>which alſo beare the ſame</hi> numbers: <hi>without which, the Myſterie of the</hi> Allegory, <hi>will hardly be vnderſtood.</hi>
+               </item>
+               <item>
+                  <hi>The</hi> Heathens <hi>infidelitie, is conteined in the</hi> firſt foure Staffes.</item>
+               <item>
+                  <hi>The</hi> Turkes <hi>blaſphemie from the</hi> fifth Staffe to the eight.</item>
+               <item>Amſterdams <hi>varietie, from the</hi> eight to the thirteenth.</item>
+               <item>
+                  <hi>The</hi> Popes <hi>Hypocriſie, from the</hi> thirteenth to the ſeuen and twentieth.</item>
+               <item>
+                  <hi>Our</hi> Churches <hi>veritie, from the</hi> twentie ſeuen to the laſt.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>The</hi> Kings <hi>excellencie, is handled in the</hi> 27.28.30.38. and 39. Staffes.</item>
+               <item>
+                  <hi>His</hi> Iſſues <hi>integritie, in the</hi> 29. Staffe.</item>
+               <item>
+                  <hi>The</hi> Nobilitie <hi>and</hi> Gentrie, <hi>handled in the</hi> 33. Staffe.</item>
+               <item>
+                  <hi>The</hi> Councell <hi>and</hi> Iudges, <hi>in the</hi> 35 Staffe.</item>
+               <item>
+                  <hi>The</hi> Preachers <hi>puritie, in the</hi> 31. Staffe.</item>
+               <item>
+                  <hi>The</hi> Biſhops <hi>in the</hi> 36. and 37. Staffes.</item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 5. line 27. for <hi>pure</hi> reade <hi>poure.</hi> Page 19. line 25. for <hi>which</hi> reade <hi>doth.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173768:2"/>
+            <head>TO ALL VERTVOVS Nobilitie, reuerend Clergie, and well affected Gentrie, ROBEKT CARLYLE wiſheth grace, mer<g ref="char:EOLhyphen"/>cie, and peace in <hi>Chriſt Ieſus.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>IGHT Noble, Religious and worthie perſons, the Title Page demonſtrateth vnto you, that the plot of this fa<g ref="char:EOLhyphen"/>bricke hath a generall ſcope, and is erected vpon all your ſeuerall re<g ref="char:EOLhyphen"/>putations, ſo that for the intereſt which you may challenge in this ſtructure, I will entitle you with the Dedication: For in ſo much as God hath giuen you the inheri<g ref="char:EOLhyphen"/>tance of knowledge, Religion, and Ver<g ref="char:EOLhyphen"/>tue, you are alſo coheires of the com<g ref="char:EOLhyphen"/>mendation thereof: And becauſe this building is thus magnificently beauti<g ref="char:EOLhyphen"/>fied
+<pb facs="tcp:173768:3"/>with excellent Statues, no leſſe per<g ref="char:EOLhyphen"/>ſons then your ſelues, adorned with all the golden and pretious robes of faith<g ref="char:EOLhyphen"/>full Saints: meruaile not that I giue it a glorious name; for if the Arke of God was called <hi>The glory of Iſrael</hi> being a type onely, 1. <hi>Sam</hi> 4.21. Then the Goſpell of Chriſt Ieſus, the foundation of this frame, ſhall make it glorious eternally. I haue beene curious in the workemanſhip of this Edifice, and carefull leſt my blunt edged Chiſſell, in the caruing of your pictures, and inſcription of your Tro<g ref="char:EOLhyphen"/>phies, ſhould blemiſh your perſonages, or daſh out one letter of your fame: If I haue done well I ſhall be glad for my Countries ſake; If I haue committed any one error I diſdaine not to haue it amen<g ref="char:EOLhyphen"/>ded in this worke by ſuch as are better experienced then my ſelfe. Meane time I deſire my loue and good will may be louingly accepted. And ſo I reſt,</p>
+            <closer>
+               <signed>Yours moſt deuoted <hi>R. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:173768:3"/>
+            <head>The Dreame.</head>
+            <lg>
+               <l>
+                  <hi>1. THe Dreame is this:</hi> One in a ſhape diuine,</l>
+               <l>Tranſported by the Windes as ſwift as thought,</l>
+               <l>Whoſe face more glorious then the Sunne did ſhine,</l>
+               <l>Me to an vnknowne climat quickly brought,</l>
+               <l>Whereof ſtrange things that were within that Nation,</l>
+               <l>And of their natures he gaue true relation.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>2.</hi> He ſhewed me Oare of Gold, which being tried</l>
+               <l>As Mettals vſe to be in burning fire,</l>
+               <l>One ſhould haue thought would haue beene purified,</l>
+               <l>But contrarie it turn'd to filthie mire,</l>
+               <l>And whoſoeuer kept it afterward,</l>
+               <l>Should be with Sprights and Goblins ſtrangely ſcard.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>3.</hi> Beſides the operation of this Oare</l>
+               <l>Was, whoſoeuer toucht it, to make blinde</l>
+               <l>And ſottiſh, ſo that they could neuer more</l>
+               <l>Haue wit or ſight in any perfect kinde,</l>
+               <l>Except by bathing in one Riuer pure,</l>
+               <l>In Europe Northward where they might haue cure.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>4.</hi> In this ſtrange Countrie alſo was a flower,</l>
+               <l>Which this good Angell had no ſooner gather'd,</l>
+               <l>But within one halfe quarter of an hower,</l>
+               <l>As a thing blaſted ſuddenly it wither'd,</l>
+               <l>And as the Marigold by the Sunne is ſpread,</l>
+               <l>This by the Sunne ſhut vp and ſeem'd as dead.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>5.</hi> The Angell then transfer'd me to a Land,</l>
+               <l>Where huge deformed vgly Giants breed,</l>
+               <pb facs="tcp:173768:4"/>
+               <l>Which ſpoil'd and burnt good corne which there did ſtand,</l>
+               <l>And ſet <hi>Tabacco</hi> that foule ſtinking weede,</l>
+               <l>One bad me taſte, but the Angell bad me leaue,</l>
+               <l>For that would me quite of my life bereaue.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>6.</hi> For this is not a man as you ſuppoſe,</l>
+               <l>But a black fiend which humane ſhape aſſumes,</l>
+               <l>That takes <hi>Tabacco</hi> thus through mouth and noſe,</l>
+               <l>And brings from Hell theſe deuilliſh perfumes,</l>
+               <l>I ſtarted back ſeeing it was a Deuill,</l>
+               <l>And praied good Angell, ſaue me from this euill.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>7.</hi> Be not afraid quoth he, thou ſhalt that ſee</l>
+               <l>Before that we depart this wicked Land,</l>
+               <l>Which neuer eie beheld: And then to me</l>
+               <l>Appear'd damn'd creatures in the flames to ſtand,</l>
+               <l>Thſe are <hi>Tabacconiſts</hi> ſaid he, that for this turne,</l>
+               <l>Did whilst they liu'd, before-hand learne to burne.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>8.</hi> Then ſuddenly he ſnatcht me vp and flew,</l>
+               <l>Vntill he came vnto a thick-ſet Wood,</l>
+               <l>Where trees of all ſorts many thouſands grew,</l>
+               <l>And likewiſe Shrubs innumerable stood,</l>
+               <l>And looke how many Trees and Shrubs there were,</l>
+               <l>So many ſeuerall fruits they all did beare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>9.</hi> Some were like Apples, but were Crabs in taſt,</l>
+               <l>And in the eating had but ſowre digeſtion:</l>
+               <l>Some were as bitter as the Oaken maſt,</l>
+               <l>More fit for ſwine then any mags refection:</l>
+               <l>Some were delicious ſweete, and perfect good,</l>
+               <l>Such as at firſt in <hi>Edens</hi> Garden ſtood.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>10.</hi> But as that fruit was good and luſhious,</l>
+               <l>The Scituation of the Trees was bad,</l>
+               <l>For none of them by meanes of Vnder-buſhes,</l>
+               <l>Sufficient roome to ſprout their branches had,</l>
+               <l>So th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for want of elbow-roome, a Tree</l>
+               <l>Not halfe ſo fruitfull was as elſe might bee.</l>
+            </lg>
+            <pb facs="tcp:173768:4"/>
+            <lg>
+               <l>
+                  <hi>11.</hi> Vnfruitfull briars choakt their ſappy roote,</l>
+               <l>And with ſharpe pricks did goad their tender Rinde,</l>
+               <l>Thornes would not let their ſpringing Armes to ſhoote,</l>
+               <l>Sprigs of wilde Trees about their branches twinde,</l>
+               <l>As if they all malicious enuie had</l>
+               <l>At that good fruit, ſeeing their owne was bad.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>12.</hi> Pitty it was the husband-mans reſpect,</l>
+               <l>Did not roote out theſe inconuenient lets;</l>
+               <l>He might haue remedied that great defect,</l>
+               <l>By burning vp thoſe preiudiciall ſets,</l>
+               <l>For thoſe Trees properly are made to burne,</l>
+               <l>As ſome to build, and ſome for other turne.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>13.</hi> This when I had peruſed curiouſly,</l>
+               <l>The Angell led mee to a goodly Vine-yard,</l>
+               <l>Kept by a Tyrant, who ſwore furiouſly,</l>
+               <l>That hee would kill mee with his bloody whineyard.</l>
+               <l>The Angell ſau'd mee, and compel'd him to</l>
+               <l>Declare the miſchiefes which hee there did do.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>14.</hi> Then thus the Tyrant timerouſly ſaid,</l>
+               <l>Northward from hence there is within a Land,</l>
+               <l>Amidſt the Sea, a fruitfull Paradice made,</l>
+               <l>Where goodly Vines in curious order ſtand,</l>
+               <l>Which proue exceeding plentifull: And there</l>
+               <l>I ſometime great authoritie did beare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>15.</hi> And thoſe faire Vines to all eſtates were free,</l>
+               <l>As well the Plough-man as the Potentate,</l>
+               <l>And euery beggar might ſufficed bee,</l>
+               <l>Without controlement of the Magiſtrate,</l>
+               <l>That all degrees by vertue of that Grape,</l>
+               <l>Grew perfect wiſe, ſober, temperate.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>16.</hi> But I by craft and deuilliſh inuention,</l>
+               <l>Deſiring their ſubuerſion, cut thoſe Vines</l>
+               <l>Vnſeaſonably, to hinder their extention</l>
+               <l>In growth and ſpreading: And as oftentimes</l>
+               <pb facs="tcp:173768:5"/>
+               <l>As J with blood the Rootes ſhould haue made moist,</l>
+               <l>A poyſon ſtrong I cloſely in did foist.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>17.</hi> Which to conceale from mens detection,</l>
+               <l>This trick I had, I ſuffer'd none to come</l>
+               <l>Within that Paradice for to make collection,</l>
+               <l>But I my ſelfe in perſon, or elſe ſome</l>
+               <l>Of my confederates, whom I put in truſt,</l>
+               <l>Deliuer'd them how, and to whom we luſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>18.</hi> Many diſeaſes heerevpon did grow,</l>
+               <l>The Ague, Palſey, Megrims, Scurfe and Scab,</l>
+               <l>The cauſe of ſickneſſes they did not know,</l>
+               <l>For no man of the Grapes ſuſpition had.</l>
+               <l>By this I got at ending of their daies,</l>
+               <l>All that they had for Roſemary and Bayes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>19.</hi> At length my helliſh purpoſe was deſcried</l>
+               <l>By one that vomited a poyſoned Grape,</l>
+               <l>By reaſon of an Antidote applied,</l>
+               <l>And all the Countrie then did beare me hate,</l>
+               <l>And for thoſe faults which I committed there,</l>
+               <l>They baniſht me, and ſo I thence came here.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>20.</hi> And all theſe Vines which heere you planted ſee,</l>
+               <l>Are of that ſort, which I from thence did bring:</l>
+               <l>But I haue cauſed other Weedes to bee</l>
+               <l>Set with them, that they may together ſpring,</l>
+               <l>And both at one time put into the Preſſe,</l>
+               <l>The Grapes and Weedes, to make a mingled meſſe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>21.</hi> And to keepe well thoſe Weedes, I haue ordain'd,</l>
+               <l>They be continually vnderpropt with ſtakes,</l>
+               <l>By ſuch as I haue purpoſely retain'd,</l>
+               <l>Who in like caſe for their owne lucre ſakes,</l>
+               <l>Ten times more curious are to trimme and prime</l>
+               <l>Their branches, than the branches of the Vine.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>22.</hi> This mingle mangle compoſition,</l>
+               <l>Hath much beſotted all the Peoples braines,</l>
+               <pb facs="tcp:173768:5"/>
+               <l>And ſuch is their ſond ſuppoſition,</l>
+               <l>They hold him curſt that from this drinke refraines:</l>
+               <l>The gaines being great for ſelling of this Ale,</l>
+               <l>Hath lift my head as high as Dragons taile.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>23.</hi> And all the Countrie call me Demy-god,</l>
+               <l>Bending their knees to me with great deuotion,</l>
+               <l>And offer Gold, Iewels and Emmerods,</l>
+               <l>And all they haue for this my potion:</l>
+               <l>But out alas, their blind inchaunted ſight</l>
+               <l>Sees not the Adder me that doth them bite.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>24.</hi> And that my gaine may be enlarg'd the more,</l>
+               <l>I haue deuiſ'd a Law on Paine of death,</l>
+               <l>That none the Iuce of Grapes ſhall taſt, before</l>
+               <l>The Iuce of Weedes be mixt, whereby of breath</l>
+               <l>I haue bereaued thouſands with this blade,</l>
+               <l>Which for that purpoſe onely I haue made.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>25.</hi> The Angell anſwer'd, for this Impious fact,</l>
+               <l>A iudgement on thee ſuddenly ſhall come,</l>
+               <l>Worſe then the Serpents curſe, for his vilde Act</l>
+               <l>Which in deluding <hi>Euah</hi> he had done:</l>
+               <l>Vengeance from Heauen ſhall one day driue thee out</l>
+               <l>From this faire Vineyard with thy Rabble rout.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>26.</hi> Who pitifully ſhall lament thy caſe,</l>
+               <l>The aſpect thereof will be ſo vehement:</l>
+               <l>But others ſhall reioice at thy diſgrace,</l>
+               <l>And for deliuerance from thy miſchiefes ſent.</l>
+               <l>And therefore double ſhalt thou puniſht be,</l>
+               <l>For thy deluſion and vilde Tyrannie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>27.</hi> And then mee thought I was tranſlated thence</l>
+               <l>Into a Paradice repleniſhed</l>
+               <l>With fruitfull Trees, Corne, Vines, and Hearbes, from whence</l>
+               <l>The Tyrant had before beene baniſhed:</l>
+               <l>Who when be kept it was not ſo perfidious,</l>
+               <l>As is the man that keepes it now Religious.</l>
+            </lg>
+            <pb facs="tcp:173768:6"/>
+            <lg>
+               <l>
+                  <hi>28.</hi> For hauing Children, he inſtructs them how</l>
+               <l>They may thoſe Trees, Corne, Vines and hearbs beſt keepe</l>
+               <l>From Caterpillers, Cankers, and the Sow,</l>
+               <l>That longs into that place by ſtealth to creepe,</l>
+               <l>To ſpoile the Paradice; Of which ſort there were</l>
+               <l>Some by that Tyrant left of purpoſe there.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>29.</hi> So that this Paradice is like to floriſh</l>
+               <l>Vntill the finall period of all things,</l>
+               <l>For his faire iſſue know well how to nouriſh</l>
+               <l>Thoſe holy Plants, and thoſe cleere water-springs,</l>
+               <l>Running there-through to keepe from foule pollution,</l>
+               <l>Till all things haue their finall diſſolution.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>30.</hi> And how prouiſion is by vertue made</l>
+               <l>To keepe the Caterpillers from the Trees,</l>
+               <l>Js thus; A fire vnderneath is laide,</l>
+               <l>Whoſe ſmoake conſumes them, as in ſwarmes of Bees</l>
+               <l>Is vſed commonly to rid the Drones,</l>
+               <l>And ſo they proue continuall fruitfull ones.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>31.</hi> And that the Corne from Cankers may be cleane,</l>
+               <l>Thouſands of carefull Laborers are fitted,</l>
+               <l>To poliſh, cleanſe, and winnow, by which meane,</l>
+               <l>None but good Corne is to the ground committed:</l>
+               <l>The like care is to cleare the hearbs from weedes,</l>
+               <l>So there good Corne and good hearbs onely breede.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>32.</hi> But to keepe out that beaſtly breed of Swine,</l>
+               <l>Three thick-ſet hedges decently are placed</l>
+               <l>About the Paradice, leaſt they ſhould vndermine,</l>
+               <l>And ſo it might be vtterly defaced:</l>
+               <l>Theſe Fences being ſtrong, this ſtincking rout</l>
+               <l>Shall ne're get in, though they runne round about.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>33.</hi> The firſt and out-moſt hedge is guarded well</l>
+               <l>By Champions of valiant condition,</l>
+               <l>Whowatch continually them to repell</l>
+               <l>With ſhield, and ſpeare, or ſword, or ſuch munition:</l>
+               <pb facs="tcp:173768:6"/>
+               <l>And if the Swine but once come neere that fence,</l>
+               <l>One of thoſe weapons ſure ſhall beate them thence.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>34.</hi> But if the Swine doe chaunce to ſneake vnſeene,</l>
+               <l>Of all that well approued outward guard,</l>
+               <l>Within their hedge a little ſpace betweene</l>
+               <l>The firſt and ſecond fence, them to reward,</l>
+               <l>Lie beagles to diſcouer the intruſion</l>
+               <l>Of thoſe, that wiſh to Paradise confuſion.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>35.</hi> Being ſet on by this quick-ſented crue,</l>
+               <l>The ſecond guard being huntſ-men ſoone prepare,</l>
+               <l>Who make thoſe Swine their boldneſſe for to rue,</l>
+               <l>By force of Iauelin, Piſtol, Pike, or Speare:</l>
+               <l>Whoſe proued ſhields, and vertue of their Armes</l>
+               <l>Them' gainſt a thouſand boares, will ſaue from harmes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>36.</hi> But ſay a foule Swine in a cleane beaſt skinne,</l>
+               <l>Were cloſely put (as none but cleane come there)</l>
+               <l>Thinking by ſubtile policie to get in,</l>
+               <l>Yet would it be diſcried ere it come neere,</l>
+               <l>For the third guard is clad in Armes compleat,</l>
+               <l>And ſearch each beaſt that thither comes to eate.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>37.</hi> And they with compleat furniture addreſt,</l>
+               <l>In ſingle combat ſhunne no fierce aſſault,</l>
+               <l>Such manly courage reſteth in their breſt,</l>
+               <l>From an whole hoſt they neuer will reuolt,</l>
+               <l>But fight couragiouſly and winne the day,</l>
+               <l>And carry conqueſt for their Prize away.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>38.</hi> This goodly Paradice thus is ſafely kept,</l>
+               <l>From vncleane beaſts, chiefely from Wolues and Boares</l>
+               <l>By vertues care, and prouident reſpect,</l>
+               <l>Who chiefe Commander is, and keepes the dores,</l>
+               <l>And lets all in and out, and ſets theſe guards,</l>
+               <l>(Whom for their paines he daily giues rewards)</l>
+               <l>And ſo the Lambes and ſilly Sheepe feed free</l>
+               <l>From the Wolues rapine, and the Swines infection,</l>
+               <pb facs="tcp:173768:7"/>
+               <l>Plentie of Corne is alwaies ſeene to bee,</l>
+               <l>And fruits great ſtore, by Vertues good direction,</l>
+               <l>Good Sallet hearbes abundant, water cleere</l>
+               <l>(As if it were diſtil'd) in Riuers there.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>40.</hi> And thoſe three Guardes me thought deuoutly prai'd</l>
+               <l>For the continuance of this heauenly place,</l>
+               <l>And God graunt Vertue all bappineſſe they ſaid,</l>
+               <l>And his poſteritie, with increaſe of grace</l>
+               <l>Mercy, and peace, for euermore. And then</l>
+               <l>Legions of Angels anſwered Amen.</l>
+            </lg>
+            <lg>
+               <l>THen toward me the Angell turn'd his face,</l>
+               <l>And ſaid he now had ſhewed me good from euill,</l>
+               <l>Vertue from vice, Celeſtiall from baſe</l>
+               <l>Terreſtriall things, bright Angels from the Deuill,</l>
+               <l>And of theſe things to know the explanation,</l>
+               <l>Reade theſe few leaues and ſee the Demonſtration,</l>
+            </lg>
+            <lg>
+               <l>Which take and coppy out with expedition,</l>
+               <l>For I muſt leaue you now to Vertues guard,</l>
+               <l>To whom preſent it without intermiſſion,</l>
+               <l>And he to you for this will giue reward,</l>
+               <l>I tooke my penne, as he gaue me commiſſion,</l>
+               <l>And thus I writ the Viſions expoſition.</l>
+            </lg>
+         </div>
+         <div type="exposition">
+            <pb n="1" facs="tcp:173768:7"/>
+            <head>The EXPOSITION.</head>
+            <q>
+               <hi>1</hi> — One in a ſhape diuine,</q>
+            <p>BY theſe words is meant the Spirit of Truth, the Re<g ref="char:EOLhyphen"/>uelation of the Myſterie of Ieſus Chriſt, the diuine and heauenly operation of the holy Ghoſt.</p>
+            <q>Tranſported by the windes as ſwift as thought,</q>
+            <p>Which is inſpired, and breathed into our ſoules, thoughts and conſciences, from the mouth of the moſt ſacred Trini<g ref="char:EOLhyphen"/>tie: as <hi>Acts</hi> 2.2. it is ſaid, that when the Apoſtles receiued the Holy Ghoſt, <hi>ſuddenly there came a ſound from heauen, as of a ruſhing, and mighty winde, and it filled all the houſe where they ſate.</hi>
+            </p>
+            <q>Whoſe face more gloious then the Sunne did ſhine.</q>
+            <p>The Word of Truth may well be ſaid to be farre more glorious then the Sun in brightnes and ſhining, in reſpect of the integritie and eternitie, thereof: for the Sun onely giueth light vnto the outward eyes, to guide our naturall feete from ſtumbling: But this gratious viſitation in Chriſt Ieſus hath lightned the darkneſſe of our hearts, to guide our mindes and affections, leſt we ſtumble at errors and deadly ſinnes, and ſo fall into perdition. S. <hi>Iohn</hi> 1.4. ſpeaking of the worthines of the word, ſaith, <hi>It was life, and the life</hi> (mea<g ref="char:EOLhyphen"/>ning Chriſt Ieſus) <hi>was the light of men.</hi>
+            </p>
+            <q>Me to an vnknowne Climate quickly brought.</q>
+            <p>By this is to be vnderſtood a Repreſentation vnto vs of ſuch places, where the light of the Goſpell hath not yet ſhined, and where the word of Truth is not yet preached, as amongſt the Heathen people, Pagans, Infidels, Virgini<g ref="char:EOLhyphen"/>ans, and other the like barbarous and bruitiſh Nations,
+<pb n="2" facs="tcp:173768:8"/>and as it was with vs Gentiles in the time of the Law be<g ref="char:EOLhyphen"/>fore our vocation, as it is written, <hi>wee were ſometimes ſtran<g ref="char:EOLhyphen"/>gers from the promiſe, Eph.</hi> 2.12.</p>
+            <q>
+               <l>Where of Strange things that were within that Nation,</l>
+               <l>And of their Natures he gaue true relation.</l>
+            </q>
+            <p>That is, the Spirit of grace doth demonſtrate vnto vs, the ſtrange Religions and Hereſies of thoſe forraine Nati<g ref="char:EOLhyphen"/>ons, their vaine ſuperſtitions, and blinde Idolatrie, and the effects and euents of their errors: 1. <hi>Cor.</hi> 4.5. <hi>He will lighten things that are hid in darkneſſe, and make the Councels of the hearts manifeſt.</hi>
+            </p>
+            <q>
+               <hi>2</hi> He ſhewed me Oare of Gold, —</q>
+            <p>All is not gold that gliſtereth, neither is this meant to be materiall Oare, but that which indeed (if it had beene of the right touch) would haue been farre more pretious then gold. It is meant by their Religion, which being of a coun<g ref="char:EOLhyphen"/>terfeit ſtampe, is but a <hi>ſuperficies,</hi> faire without, but droſſe within; for inſtead of worſhipping the liuing God, they adore a dead Idol of gold, and ſometimes of wood and ſtone: ſome of them alſo worſhip the Sun, the Moone, and the Starres; ſome put their truſt in their Coyne, ſaying, with the couetous miſer, <hi>Pecunia omnia poteſt:</hi> I pray God too many of thoſe Idolaters be not amongſt vs; nay, ſome worſhip the Deuill himſelfe.</p>
+            <p>We reade in the 2. <hi>King.</hi> 16.3. <hi>That Ahaz King of Ieru<g ref="char:EOLhyphen"/>ſalem made his ſonne to goe thorow the fire, after the abhomi<g ref="char:EOLhyphen"/>nations of the Heathen, as a Sacrifice to the Idol Molech.</hi>
+            </p>
+            <p>Alſo, in the 2. <hi>Kings</hi> 21. It is ſaid of <hi>Manaſſeth,</hi> that <hi>he built the high places which Hezekiah his father had deſtroied, and he erected vp Altars for Baal, and made a groue as did A<g ref="char:EOLhyphen"/>hab King of Iſrael, and worſhipped all the hoaſt of Heauen, and ſerued them.</hi>
+            </p>
+            <p>And as in thoſe times, <hi>they worſhipped the Gods of their Na<g ref="char:EOLhyphen"/>tions,</hi> 2. <hi>King.</hi> 17.29. So is it now with thoſe ignorant incre<g ref="char:EOLhyphen"/>dulous
+<pb n="3" facs="tcp:173768:8"/>people in our daies which know not the true God.</p>
+            <q>
+               <l>—which being tried,</l>
+               <l>As mettals vſe to be, in burning fire,</l>
+               <l>One ſhould haue thought would haue beene purified,</l>
+               <l>But contrarie it turn'd to filthy Mire,</l>
+            </q>
+            <p>The Goſpell of Chriſt Ieſus is compared to a burning fire, moſt vehement, which maketh a change of things through all the World: as in <hi>Luk</hi> 12.49. Chriſt ſaith, <hi>I am come to put fire on the earth,</hi> ſpeaking of the Goſpell, ſo then this is the meaning of the laſt verſes, That the Religion of thoſe Idolaters and Heathen people, being compared and examined with our Catholike and Apoſtolike Doctrine, it needes no other touchſtone, it ſhewes both inſide and out<g ref="char:EOLhyphen"/>ſide, that in reſpect thereof it is baſe and vilde, and as durt and droſſe to pure gold, as a pibble-ſtone to a pretious Di<g ref="char:EOLhyphen"/>amond.</p>
+            <p>If we diligently peruſe the Scriptures, we ſhall finde that Idolatrie is forbidden 500. times in the New and Old Te<g ref="char:EOLhyphen"/>ſtament with ſeuere puniſhments: And God himſelfe for the vilde wickedneſſe and abhomination thereof, hath pro<g ref="char:EOLhyphen"/>nounced that <hi>the entiſers of Idolatrie ſeeme they neuer ſo holy ſhould be ſlaine, Deut.</hi> 13.5.</p>
+            <p>
+               <hi>Bleſſed is the Tree whereby Righteouſneſſe commeth, but that is curſed that is made with hands, both it and he that made it: He becauſe he made it, and it being a corruptible thing, becauſe it was called God, Wiſd.</hi> 14.7.8.</p>
+            <q>
+               <l>And whoſoeuer kept it afterward</l>
+               <l>Should be with ſprights and goblins ſtrangely ſcard.</l>
+            </q>
+            <p>Heere is to be noted, that after our conſciences haue beene throughly tried, by the word of God, and that we haue receiued by the ſpirit of Grace the knowledge of Chriſt Ieſus, if we reuolt againe from the truth, to ſerue ſtrange Gods, the Lord will giue vs ouer to the temptati<g ref="char:EOLhyphen"/>ons of Satan, hardneſſe of heart, blindneſſe of vnderſtan<g ref="char:EOLhyphen"/>ding,
+<pb n="4" facs="tcp:173768:9"/>and will bring vpon vs warre, famine, and all the curſes mentioned in the Booke of his Law, and in the end death and deſtruction, &amp; after death perpetuall damnation.</p>
+            <p>It is euident in diuers places of the Old Teſtament in euery booke, that the Kings of Iſraell ſo long as they kept the Commandements of God, and obſerued his Lawes, as the Lord hath appointed, not according to their owne ima<g ref="char:EOLhyphen"/>ginations, they proſpered in all their doings, and many bleſſings were vpon them: But when they went a whore<g ref="char:EOLhyphen"/>ing after ſtrange Gods, the vengeance and wrath of God came vpon them with many heauy curſes pronounced: whereof reade 2. <hi>King.</hi> 17.7. <hi>Exod.</hi> 22.20. alſo 23.32.33. <hi>Deut.</hi> 17. from 2. <hi>verſe</hi> to 8. alſo 29. from the 18. to the laſt <hi>verſe.</hi> alſo 30.17.18. <hi>Reuel.</hi> 21.8.</p>
+            <q>
+               <l>
+                  <hi>3.</hi> Beſides the operation of this Oare</l>
+               <l>Was, whoſoeuer toucht it to make blinde</l>
+               <l>And ſottiſh, ſo that they could neuer more</l>
+               <l>Haue wit or ſight in any perfect kinde,</l>
+            </q>
+            <p>Heere are deſcribed the effects of Idolatrie, blindneſſe and dulneſſe of vnderſtanding: So heere are blinde Gods, and blinde People:</p>
+            <p>2. <hi>Sam.</hi> 5.8. When king <hi>Dauid</hi> and his men went to Ieru<g ref="char:EOLhyphen"/>ſalem vnto the Iebuſites, he promiſed preferment to thoſe that would ſmite the <hi>Lame and Blinde,</hi> meaning the Idols which his ſoule hated, as the text mentioneth.</p>
+            <p>And <hi>Salom. Wiſd.</hi> 14.26.27. ſaith, that <hi>the worſhipping of Idols, which ought not to be named, is the beginning and the cauſe and end of all euill, for either they be mad, when they be merrie, or propheſie lies, or liue vngodly, or elſe lightly forſweare themſelues.</hi>
+            </p>
+            <p>The Apoſtle <hi>Paul</hi> alſo writing to the <hi>Eph.</hi> 4.17.18.19. ex<g ref="char:EOLhyphen"/>horteth them <hi>that they will not walke as other Gentiles, in va<g ref="char:EOLhyphen"/>nity of their minde, hauing their cogitation darkened, and be<g ref="char:EOLhyphen"/>ing ſtrangers from the life of God, through the ignorance that is in them, becauſe of the hardneſſe of their hearts, &amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:173768:9"/>
+            <p> And it may be truely applied vnto them that is ſpoken by <hi>Iſa.</hi> the Prophet <hi>cap.</hi> 59.10. <hi>They grope for the wall like the blinde, and as one without eies, they ſtumble in the noone-day, as in the twilight, and they are in ſolitarie places as dead Men.</hi>
+            </p>
+            <q>
+               <l>Except by bathing in one Riuer pure,</l>
+               <l>In Europe Northward where they might haue cure.</l>
+            </q>
+            <p>The word of God in diuers places of the Scripture is likened to Riuers and waters, whereby is meant, that if thoſe Idolatrous Nations haue recourſe to the holy Scrip<g ref="char:EOLhyphen"/>tures as they are now profeſſed and taught in the Church of Great Britaine, they ſhall be deliuered and freed from their blindneſſe and ignorance.</p>
+            <p>
+               <hi>Iohn</hi> 4.14. <hi>Whoſoeuer drinketh of the water</hi> (ſaith Chriſt) <hi>that I ſhall giue him, ſhall neuer be more a thirſt, but the water that I ſhall giue him, ſhall be in him a well of water ſpringing vp into euerlaſting life.</hi>
+            </p>
+            <p>
+               <hi>Ezech.</hi> 47.8.9. The Scriptures are called wholeſome wa<g ref="char:EOLhyphen"/>ters, in theſe words, <hi>Theſe waters iſſue out toward the Eaſt Countrie, and runne downe into the plaine, and ſhall goe into one Sea, and the waters ſhall be wholeſome, and euery thing which moueth whereſoeuer the Riuers come ſhall liue, and there ſhall be a very great multitude of fiſh, becauſe theſe waters ſhall come thither, for they ſhall be wholeſome, and euery thing ſhall liue whither the Riuer commeth.</hi>
+            </p>
+            <p>Alſo in the 36. <hi>ver.</hi> 25. Gods Spirit is compared to cleane water, where the Lord ſaith, <hi>I will pure cleane water vpon you, and ye ſhall be cleane, yea, from all your filthineſſe, and from all your Idols will I clenſe you.</hi>
+            </p>
+            <p>And the Apoſtle <hi>Paul</hi> writing to the <hi>Eph. cap.</hi> 5. <hi>ver.</hi> 26.27. ſheweth how Chriſt ſanctifieth and clenſeth his Church by the waſhing of water through the word, that he might make it vnto himſelfe a glorious Church, not hauing ſpot or wrinckle or any ſuch thing, <hi>but that it ſhould be holy and without blame.</hi>
+            </p>
+            <pb n="6" facs="tcp:173768:10"/>
+            <p> Laſtly, Baptiſme (which theſe Heathen people haue not) is a token, that God hath conſecrated the Church to him<g ref="char:EOLhyphen"/>ſelfe, and made it holy by his word, that is, his promiſe of free iuſtification and ſanctification in Chriſt.</p>
+            <q>
+               <l>
+                  <hi>4.</hi> In this ſtrange Countrie alſo was a flower</l>
+               <l>Which this good Angell had no ſooner gather'd,</l>
+               <l>But within one halfe quarter of an hower,</l>
+               <l>As a thing blaſted, ſuddenly it wither'd,</l>
+               <l>And as the Marigould by the Sun is ſpread,</l>
+               <l>This by the Sunne ſhut vp and ſeem'd as dead.</l>
+            </q>
+            <p>Certaine it is, that there is a flower in the Indies, which when the Sun ſhineth it ſhuts it ſelfe cloſe, as a Marigould openeth by the Sun. And there is a Tree called the ſhame<g ref="char:EOLhyphen"/>fac'd-Tree, which groweth very faire and greene, whoſe leafe if you touch, though you pluck it not from the Tree, yet it will ſhrinke together for a ſeaſon, like as if it ſhould wither, and ſo continue vntill your departure from that place, but the purpoſe heere is not to diſcouer naturall cau<g ref="char:EOLhyphen"/>ſes, but to make Spirituall vſe.</p>
+            <p>Therefore, By this flower, is ſignified the weake faith of theſe Infidels, which as it is little or none at all, ſo it hath no ſure foundation whereupon it is built, and therefore cannot ſtand againſt the power of the ſpirit of truth, no more then the Idol <hi>Dagon</hi> did before the Arke of the Lord, whereof it is written, 1. <hi>Sam.</hi> 5.2 3.4. <hi>That the Philiſtines tooke the Arke of God, and brought it into the houſe of their chiefe Idol Dagon, and ſet it by Dagon, And when they of Aſhdod roſe the next day in the morning, behold Dagon was fallen vpon his face on the ground before the Arke of the Lord, And they tooke vp Da<g ref="char:EOLhyphen"/>gon and ſet him in his place againe, And they roſe vp early in the morning next day, and behold Dagon was fallen againe vpon his face on the ground before the Arke of the Lord, and the head of Dagon and the two palmes of his hands were cut off vpon the threſhold, onely the ſtumpe of Dagon was left to him:</hi>
+               <pb n="7" facs="tcp:173768:10"/>And ſo is it with this flower which properly I cannot call Faith, ſeeing the Apoſtle <hi>Paul</hi> 2. <hi>Theſ.</hi> 3.2. ſaith, <hi>all men haue not faith,</hi> but it is a kinde of blinde zeale in their blinde Re<g ref="char:EOLhyphen"/>ligion, which at the appearance and tryall of the ſpirit of God withereth like a flower.</p>
+            <q>
+               <l>
+                  <hi>5.</hi> The Angell then transfer'd me to a Land,</l>
+               <l>Where huge deformed vgly Giants breed,</l>
+               <l>Who ſpoil'd and burnt good Corne which there did ſtand,</l>
+               <l>And ſet <hi>Tobacco</hi> that foule ſtincking weede.</l>
+            </q>
+            <p>By this land is conceiued ſo much as is vnder the Domi<g ref="char:EOLhyphen"/>nion of the great Turke, where the people may properly be called deformed vgly Giants, in reſpect of their horrible foule Hereſies and blaſphemies which in them is more monſtrous and damnable, then in the Heathen people before mentioned, which neither haue heard of Chriſt ſince his comming, nor any type, figure, or Propheſie of him before his comming: But theſe Monſters haue euer had the Law of <hi>Moſes</hi> among them, and alſo the bookes of the Prophets, which likewiſe they haue now in vſe; where<g ref="char:EOLhyphen"/>by the fore-knowledge of the true Meſſias was prefigured vnto them: They did alſo know of his comming, they haue heard his Doctrine, ſeene his miracles, he liued and died a<g ref="char:EOLhyphen"/>mongſt them; Yet, theſe ſauage and wilde Giants of the earth, which neuer were naturally borne as I may ſay in re<g ref="char:EOLhyphen"/>ſpect of Regeneration, waſt and burne vp (our Bibles wherein is written the Goſpell of our bleſſed Sauiour) that good ſeed which that great Husband-man Chriſt himſelfe did ſow within their Land, <hi>The bread of life, Iohn.</hi> 6.48.</p>
+            <p>
+               <hi>I am the liuing bread</hi> (ſaith Chriſt) <hi>which came downe from Heauen, If any man eate of this bread he ſhall liue for euer: And the bread that I will giue is my fleſh, which I will giue for the life of the World, Ioh.</hi> 6.51.</p>
+            <p>This bread was giuen to the Iewes before any other Na<g ref="char:EOLhyphen"/>tion, which is within the Turkes Dominion now (by Inua<g ref="char:EOLhyphen"/>ſion,) being the elect people of God, before the calling of
+<pb n="8" facs="tcp:173768:11"/>vs the Gentiles, as appeareth, <hi>Math.</hi> 15.26. When the Ca<g ref="char:EOLhyphen"/>naanitiſh woman cryed out to Ieſus for her daughter which was miſerably vexed with a Deuill; Chriſt anſwered, <hi>It is not good to take the Childrens bread,</hi> (which were the Iewes) <hi>and to caſt it to whelpes,</hi> whom Chriſt ſo called being ſtran<g ref="char:EOLhyphen"/>gers from the houſe of God: But Chriſts holy name be glorified, <hi>that we now are made partakers of this heauenly bread, whereby we are made one body with him,</hi> 1. <hi>Cor.</hi> 10.17.</p>
+            <p>But inſtead of this bread of ſinceritie and truth, 1. <hi>Cor.</hi> 5.8. Theſe deformed Giants the Turkes, haue ſowed another kind of ſeede, ſuch Corne as will proue vnto them <hi>as the bread of affliction mentioned in the</hi> 1. <hi>King.</hi> 22.27. <hi>Or as the bread of teares, Pſal.</hi> 80.5. <hi>Or as the bread of Aduerſitie, Iſa.</hi> 30.20. For it is Tabacco, it is the black ſeed of blaſphemy, which they haue ſowen, a horrible contempt and defiance of the Goſpell, and an approbrious iniurie and violence done to Chriſt himſelfe, worſe then the blaſphemie of <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> ſaying, <hi>who is the Lord that I ſhould heare his voice, and let Iſrael goe? I know not the Lord, neither will I let Iſraell goe, Exod.</hi> 5.2. Worſe then the blaſphemie of <hi>Olofernes,</hi> ſaying, <hi>Who is God but Nebuchadonozor? Iudith</hi> 6.2.5. Worſe then the blaſphemie of the Phariſes, that ſaid, <hi>Chriſt caſt out De<g ref="char:EOLhyphen"/>uils by Belzebub the chiefe of Deuils, Luke</hi> 11.15. For the Turke yet ceaſe not to defie and blaſpheme Chriſt Ieſus that was crucified about 1585. yeares paſt, terming himſelfe in deri<g ref="char:EOLhyphen"/>ſion and ſcorne of the Sauiour of the World, occupier and poſſeſſor of the Tombe of the hanged God of the Iewes: And in the Gates of their Temples (I tremble to thinke of their deuilliſh rebellion againſt the Lord) they place the Image of Chriſt hanging vpon the Croſſe with his head downwards, when they haue taken a Chriſtian, and they force him either to turne to their abhominable Religion, or elſe put him to extreame and miſerable ſlaue<g ref="char:EOLhyphen"/>ry, in which deſperate caſe, many Chriſtians are drawne to reuolt from their faith, and belieue in <hi>Mahomet,</hi> and
+<pb n="9" facs="tcp:173768:11"/>then when the Chriſtians enter into their Church, they are conſtrained to ſpurne that Image on the face, in de<g ref="char:EOLhyphen"/>ſpight and defiance. Let the World iudge what they doe to Chriſt himſelfe in their hearts, when to his Image they are ſo deſpightfull: For which cauſe this their odious blaſphemie is compared to that ſtinking weede Tabacco: For as Tabacco being ſuckt into the mouth, cauſeth men to euacuate a noiſome choaking ſmoake, and maketh the body of Man blacke and vncleane within: ſo doth their profeſſion &amp; their faith in their Religion make their ſoules black, and cauſe filthie blaſphemies to come out of their mouthes, as it is written of Antichriſt, <hi>He opened his mouth vnto blaſphemie againſt God, to blaſpheme his name and his Tabernacle, and them that dwell in Heauen, Reuelation</hi> 13.6.</p>
+            <q>One bade me taſte, —</q>
+            <p>
+               <hi>Satan hath beene a Tempter from the beginning, and is,</hi> 1. <hi>Theſſ.</hi> 3.5. and conſequently the wicked which are the Chil<g ref="char:EOLhyphen"/>dren of the Deuill are alwaies ready to ſeduce and deceiue the Children of God, and cauſe them to forſake God if it were poſſible, but ſuch are enemies to Chriſt &amp; deceiuers.</p>
+            <p>
+               <hi>Many deceiuers are entred into the World which confeſſe not that Ieſus Chriſt is come in the fleſh, He that is ſuch a one is a deceiuer and an Antichriſt,</hi> 2. <hi>Iohn</hi> 1.7.</p>
+            <q>
+               <l>— the Angell bad me leaue,</l>
+               <l>For that would me quite of my life bereaue.</l>
+            </q>
+            <p>By the corruption of nature we daily commit ſinnes of infirmitie, but ſuch as belong vnto the Lord ſhall be kept and preſerued by his grace from falling into heinous ſinnes ſuch as blaſphemie is, we are deliuered from the ſnares of death, the deluſions of the Deuill, and the temp<g ref="char:EOLhyphen"/>tations of the wicked, by the infuſion of Gods ſpirit, and the illumination of the Goſpell.</p>
+            <p>
+               <hi>The Lord knoweth to deliuer the godly out of temptation,</hi> 2. <hi>Peter</hi> 2.9.</p>
+            <pb n="10" facs="tcp:173768:12"/>
+            <p> 
+               <hi>Becauſe thou haſt kept the word of my patience, therefore I will deliuer thee from the houre of temptation, Reuel.</hi> 3.10.</p>
+            <q>
+               <l>6. For this is not a man as you ſuppoſe,</l>
+               <l>But a blacke fiend which humane ſhape aſſumes,</l>
+               <l>That takes <hi>Tobacco</hi> thus through mouth and noſe,</l>
+               <l>And brings from Hell theſe deuilliſh perfumes.</l>
+            </q>
+            <p>
+               <hi>The firſt man Adam was made a liuing ſoule,</hi> 1. <hi>Cor.</hi> 15.45. <hi>After the Image of God according to his owne likeneſſe, Gen.</hi> 1.26. That is, <hi>in righteouſneſſe and true holineſſe, Ephe.</hi> 4.24. and continued in that ſtate vntill his fall. <hi>The laſt Adam was made a quickning ſpirit,</hi> 1. <hi>Cor.</hi> 15.45. that is, Chriſt bringeth vs from Heauen the ſpirit of life, whereby we are now in the ſtate of Grace: Of which ſtate the Turkes haue no part, becauſe they denie and defie Chriſt.</p>
+            <p>So then the Turkes are the Children of the Deuill ac<g ref="char:EOLhyphen"/>cording as Saint <hi>Iohn</hi> writeth <hi>Cap.</hi> 8.44. <hi>Yee are of your fa<g ref="char:EOLhyphen"/>ther the Deuill, and the luſts of your father you will doe.</hi>
+            </p>
+            <p>As for their Blaſphemie, of all the ſinnes in the World that man can commit, it is ſo high &amp; preſumptuous againſt our Sauiour that died for vs, that the very light of our natu<g ref="char:EOLhyphen"/>rall vnderſtanding, without any further probation of Scrip<g ref="char:EOLhyphen"/>tures, will tell our hearts and conſciences, with feare and trembling (if we haue any conſcience at all, or except we haue a ſeared conſcience) that it is the very workes of dark<g ref="char:EOLhyphen"/>neſſe, helliſh, damnable, and deuilliſh, and if there be any ſpirit of error and wickedneſſe worſe then Deuils, it is their inuention and Doctrine, <hi>For Deuils know and confeſſe Chriſt, Luke.</hi> 4.41. Oh miſerable and wretched people, that hauing the ſhape of men, they ſhould be worſe then Deuils.</p>
+            <q>
+               <l>I ſtarted back ſeeing it was a Deuill,</l>
+               <l>And praied, good Angell ſaue me from this euill.</l>
+            </q>
+            <p>By the ſtarting back is meant, that we ſhould not keepe company with the wicked blaſphemers of Chriſt, but flie from them: <hi>Put away therefore from among your ſelues that
+<pb n="11" facs="tcp:173768:12"/>wicked Man,</hi> 1. <hi>Cor.</hi> 5.13. which is ſpoken of thoſe which are without, that is, which are not ſubiect to Gods word, and to the Diſcipline of the Church.</p>
+            <p>The laſt <hi>verſe</hi> ſignifieth, that wee ought to pray in the Holy-Ghoſt. <hi>Iude</hi> 20. <hi>ver. Edifie your ſelues in your moſt holy Faith, praying in the Holy-Ghoſt.</hi>
+            </p>
+            <p>And <hi>Math.</hi> 6.9. Chriſt himſelfe commandeth vs to pray thus, <hi>Our Father &amp;c. but deliuer vs from euill, &amp;c.</hi>
+            </p>
+            <q>
+               <hi>7.</hi> Be not afraid quoth he —</q>
+            <p>Heere is to be obſerued the ſingular loue of Chriſt, that in any feare or danger he will comfort and ſtrengthen ſuch as belong to him: <hi>Iohn</hi> 16.33. Chriſt ſpeaking to his Diſci<g ref="char:EOLhyphen"/>ples, ſaith, <hi>In the World yee ſhall haue affliction, but be of good comfort, I haue ouercome the World:</hi> Wherefore let vs ſay with the Apoſtle <hi>Paul</hi> 2. <hi>Cor.</hi> 1.3.4. <hi>Bleſſed be the God euen the Father of our Lord Ieſus Chriſt, the Father of mercie, and the God of all comfort, which comforteth vs in all our tribulation, that we may be able to comfort them which are in any affliction, by the comfort wherewith we our ſelues are comforted of God.</hi>
+            </p>
+            <q>
+               <l>—thou ſhalt that ſee</l>
+               <l>Before that we depart this wicked Land</l>
+               <l>Which neuer eye beheld:—</l>
+            </q>
+            <p>Sometimes the Lord ſheweth ſignes and wonders that his power may be knowne, <hi>Exod.</hi> 34.10. Sometimes for the confirmation of the Doctrine of them that beleeue and eſtabliſhing of their faith, <hi>Mark.</hi> 16.17. Sometimes precee<g ref="char:EOLhyphen"/>ding the day of iudgement, <hi>Math.</hi> 24.29.30.31. So is it alſo with his ſights, hearings, and apparitions, <hi>Ioſua</hi> 5.13.14.15: 2. <hi>King.</hi> 7.6.7. <hi>Acts</hi> 16.9. 18.9.</p>
+            <q>
+               <l>—And then to mee</l>
+               <l>Appear'd damn'd creatures in the flames to ſtand,</l>
+            </q>
+            <p>Heere is the iuſt iudgement of the Lord ſeene vpon the wicked for their vnbeliefe: <hi>He that will belieue and be bapti<g ref="char:EOLhyphen"/>zed
+<pb n="10" facs="tcp:173768:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:173768:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:173768:14"/>ſhall be ſaued, but he that will not belieue ſhall be damned, Mar.</hi> 16.17. <hi>For the time is come, that iudgement muſt begin at the houſe of God. If it firſt begin at vs, what ſhall the ende be of them that obey not the Goſpell of God? and if the righteous ſcarce be ſaued, where ſhall the vngodly and ſinner appeare?</hi> 1. <hi>Pet.</hi> 4.17.18.</p>
+            <p>Alſo 2. <hi>Theſ.</hi> 2.8.9.10.11.12. The Apoſtle <hi>Paul</hi> ſpeaking of the wicked man that ſhall be reuealed, ſaith, <hi>The Lord ſhall conſume him with the ſpirit of his mouth, and becauſe that wic<g ref="char:EOLhyphen"/>ked mans comming is by the working of Satan, with all power, and ſignes, and lying wonders, and in all deceiueableneſſe of vn<g ref="char:EOLhyphen"/>righteouſnes among them that periſh,</hi> he ſheweth, becauſe they receiued not the loue of the truth that they might be ſaued, <hi>Therefore God ſhall ſend them ſtrong deluſion, that they ſhould belieue lies, that all they might be damned which belieued not the truth, but had pleaſure in vnrighteouſneſſe.</hi>
+            </p>
+            <p>Many examples may be produced out of the Scriptures to proue and declare the iudgement of God againſt the wicked, will be terrible and fearefull at the day of his ſecond comming; and that Hell is prepared from the beginning for the Deuill and his Angels, and all wicked perſons. One more onely ſhall ſuffice to ſhew the Deſcription of Hell, that theſe wicked blaſphemers, &amp; all others may be affrigh<g ref="char:EOLhyphen"/>ted in their conſciences, and conuert and be ſaued: <hi>Iſa.</hi> 30.33. The Prophet ſaith, that <hi>Tophet is prepared of olde,</hi> that is, Hell, <hi>It is euen prepared for the King, he hath made it deepe and large, the burning thereof is fire and much wood, the breath of the Lord like a Riuer of brimſtone doth kindle it.</hi>
+            </p>
+            <q>
+               <l>Theſe are <hi>Tabacconiſts</hi> that for this turne,</l>
+               <l>Did whil'ſt they liu'd before-hand learne to burne.</l>
+            </q>
+            <p>Theſe <hi>Tabacconiſts</hi> are thoſe blaſpheme's ſpoken of be<g ref="char:EOLhyphen"/>fore, and ſuch as diſpiſe the word of truth, and the Goſpell of Chriſt Ieſus, whoſe wickedneſſe is ſaid to burne as fire whileſt they liue: <hi>Iſa.</hi> 9.18.19. <hi>For wickedneſſe burneth as a
+<pb n="13" facs="tcp:173768:14"/>fire, it deuoureth the bryars and the thornes, and will kindle in the thick places of the Forreſt, and they ſhall mount vp like the lifting vp of ſmoake, By the wrath of the Lord of Hoaſts ſhall the Land be darkened, &amp; the people ſhall be as the meate of the fire.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>8.</hi> Then ſuddenly he ſnatcht me vp and flew,</l>
+               <l>Vntill he came vnto a thick-ſet Wood,</l>
+               <l>Where trees of all ſorts many thouſands grew,</l>
+               <l>And likewiſe ſhrubs innumerable ſtood,</l>
+               <l>And looke how many trees and ſhrubs there were,</l>
+               <l>So many ſeuerall fruits they all did beare.</l>
+            </q>
+            <p>Heere is repreſented vnto our eies, the confuſed mixture of opinions and Sects in Religion of <hi>Amſterdam,</hi> a Towne within the 17. Prouinces, where it is certainely known, that there be more varieties of Doctrines, then in any one place of the World, as namely, Proteſtants, Papiſts, Atheiſts, Ana<g ref="char:EOLhyphen"/>baptiſts, Browniſts, Arians, the Familie of Loue, and ſuch like, and I thinke ſome of no Religion at all, wherefore the place is compared to a Wood, the people to Trees, and their Sects to fruits, which may fitly be ſaid to be of ſeuerall kindes, in reſpect of the difference of opinions. <hi>Euery tree is knowne by his fruit, whether it be good or euill, Math.</hi> 12.33. <hi>A good man out of the good treaſure of his heart bringeth forth good things, and an euill man out of an euill treaſure bringeth forth euill things, Math.</hi> 12.35.</p>
+            <q>
+               <l>
+                  <hi>9.</hi> Some were like Apples, but were Crabs in tast,</l>
+               <l>And in the eating had but ſower digeſtion.</l>
+            </q>
+            <p>This may be vnderſtood of the fruits of Mans inuentions, which carrie onely a ſimilitude of goodneſſe, but are bad in themſelues, as the Crab is like to an Apple, but is leſſer and far worſe in taſte. Such is the hypocriſie of the Brow<g ref="char:EOLhyphen"/>niſts, whoſe digeſtion is ſower, (that is) their puniſhment certeinely will be very grieuous vpon themſelues, <hi>Seeing that the earth which ſinneth not ſhall be made waſt becauſe of their wickedneſſe, as in Micah.</hi> 7.13. Notwithſtanding, <hi>the
+<pb n="14" facs="tcp:173768:15"/>Land ſhall be deſolate, becauſe of them that dwell therein, and for the fruits of their inuentions.</hi>
+            </p>
+            <q>
+               <l>Some were as bitter as the Oaken Maſt,</l>
+               <l>More fit for ſwine then any mans refection.</l>
+            </q>
+            <p>Theſe are the fruits of the fleſh, which in many things are brutiſh. <hi>Ro.</hi> 7.18. <hi>I know</hi> (ſaith the Apoſtle <hi>Paul) that in me, that is, in my fleſh, dwelleth no good thing, for to will is pre<g ref="char:EOLhyphen"/>ſent with me, but I finde no meanes to performe that which is good. Gal.</hi> 5.19. <hi>The workes of the fleſh are manifeſt, which are Adulterie, Fornication, Vncleanneſſe, Wantonneſſe, Idolatrie, Witchcraft, Hatred, Debate, Emulations, Wrath, Contentions, Se<g ref="char:EOLhyphen"/>ditions, Hereſies, Enuie, Murders, Drunkenneſſe, Gluttonie, and ſuch like.</hi> To all theſe euery man is naturally prone, but two of theſe may be appropriated to the fruits of the Papiſts, to wit, Fornication and Idolatrie, the one being tolerated, the other allowed by their Religion, ſo that it ſeemeth they ne<g ref="char:EOLhyphen"/>uer learned this leſſon of Saint <hi>Paul,</hi> or elſe they ſcorne to allow his Doctrine, or elſe it is out of their booke. But let them know as Saint <hi>Paul</hi> ſaith, <hi>That ſuch ſhal not inherit the kingdome of God.</hi>
+            </p>
+            <q>
+               <l>Some were delicious ſweete, and perfect good,</l>
+               <l>Such as at firſt in <hi>Edens</hi> Garden ſtood.</l>
+            </q>
+            <p>Theſe are the fruits of Righteouſneſſe, and of the Spirit, and may be ſaid to proceed from a true zealous Proteſtant.</p>
+            <p>
+               <hi>Gal.</hi> 5.22. <hi>The fruit of the Spirit is Loue, Ioy, Peace, Long<g ref="char:EOLhyphen"/>ſuffering, Gentleneſſe, Goodneſſe, Faith, Meekeneſſe, and Tem<g ref="char:EOLhyphen"/>perance.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>10.</hi> But as that fruit was good and luſhious,</l>
+               <l>The ſcituation of the Trees was bad,</l>
+               <l>For none of them by meanes of vnder-buſhes,</l>
+               <l>Sufficient roome to ſprout their branches had,</l>
+               <l>So that for want of elbow-roome, a Tree,</l>
+               <l>Not halfe ſo fruitfull was as elſe might bee.</l>
+            </q>
+            <p>Many times it fals out that the godly are hindred by the
+<pb n="15" facs="tcp:173768:15"/>wicked, that they cannot ſhew their good workes in ſuch meaſure as they would. For the profeſſion of the true Goſpell of Ieſus Chriſt, is oftentimes ecclipſed in them by the darke cloudy meetings, and mixture of Hereſies of o<g ref="char:EOLhyphen"/>thers, among whom they liue, ſo that it doth not ſhine with his perfect light, eſpecially among ſuch as either refuſe to heare the Goſpell of Chriſt at all, or elſe if they heare it, they will peruert it, and make the conſtruction thereof ac<g ref="char:EOLhyphen"/>cording to their owne fantaſies. So theſe vngodly people are compared to vnder-buſhes, that hinder the propagati<g ref="char:EOLhyphen"/>on of Gods holy word, and the growing and proſpering of the fruits of the Spirit.</p>
+            <p>And they are like to the Phariſes, that neither would be<g ref="char:EOLhyphen"/>lieue the Goſpell themſelues, nor ſuffer others to belieue, <hi>Math.</hi> 23.13. Add like to the Iewes ſpoken of in the 17. Chapter of the Acts of the Apoſtles, where <hi>Paul</hi> being in Theſſalonica, (as his manner was) went into their Syna<g ref="char:EOLhyphen"/>gogue, opening and alleadging, <hi>that Chriſt muſt haue ſuffe<g ref="char:EOLhyphen"/>red and riſen againe from the dead,</hi> and ſome belieued, but the Iewes which belieued not, tooke vnto them certaine va<g ref="char:EOLhyphen"/>gabonds, and wicked fellowes, and made a tumult in the Citie, and would haue brought <hi>Paul</hi> out to the people.</p>
+            <q>
+               <l>
+                  <hi>11.</hi> Vnfruitfull briars choakt their ſappy roote,</l>
+               <l>And with ſharpe pricks did goad their tender Rinde,</l>
+               <l>Thornes would not let their ſpringing Armes to ſhoote,</l>
+               <l>Sprigs of wilde Trees about their branches twinde,</l>
+               <l>As if they all malicious enuie had</l>
+               <l>At that good fruit, ſeeing their owne was bad.</l>
+            </q>
+            <p>Enuie is one of the fruits of the fleſh, as before mentio<g ref="char:EOLhyphen"/>ned, and therefore is altogether repugnant to the Spirit. And heere is demonſtrated vnto vs, the malice of the Chil<g ref="char:EOLhyphen"/>dren of the Deuill againſt the Children of God. Accor<g ref="char:EOLhyphen"/>ding as Chriſt ſaith to his Diſciples, <hi>Yee ſhall be hated of all men for my ſake, Math.</hi> 10.22. They that doe maintaine thoſe wicked Hereſies, and vaine inuentions, haue their eies euill,
+<pb n="16" facs="tcp:173768:16"/>becauſe the Proteſtant is good. The ſimilitude of ſharpe pricking bryars and thornes is alluded vnto ſuch as haue heard the word, <hi>but the cares of the world, and the deceitful<g ref="char:EOLhyphen"/>neſſe of Riches, and the luſts of other things, enter in and choake the word, and it is vnfruitfull, Mark.</hi> 4.19.</p>
+            <p>But that is not all the hurt they doe, to be vnfruitfull in themſelues, for the nature of ſuch bryars and thornes is to make the ground barren round about where they grow, and to hinder the growth of any thing, that is neere there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>And they may be ſaid to be wilde Trees, which haue not the knowledge of truth grafted in their hearts, of which there are too many in that place, and thoſe of ſeueral Sects, ſo that it is now with the good Proteſtant in that place, as it was with the Children of Iſraell, who being but one people in their iourney to the Land of promiſe, met with diuers Nations that reſiſted them; &amp; being there is but one truth, which the Proteſtants profeſſe, there they are much cum<g ref="char:EOLhyphen"/>bred and troubled with many hoaſtes of Errors, but as the Lord euer gaue the Conqueſt to the Iſraelites, ſo no doubt he will be to the Proteſtants.</p>
+            <q>
+               <l>
+                  <hi>12.</hi> Pitty it was the husband-mans reſpect,</l>
+               <l>Did not roote out thoſe inconuenient lets;</l>
+               <l>He might haue remedied that great defect,</l>
+               <l>By plucking vp thoſe preiudiciall ſets,</l>
+            </q>
+            <p>What greater ruine and ſpoiling of a delicate faire garden then to ſuffer it to be ouer-growne with weeds? What grea<g ref="char:EOLhyphen"/>ter confuſion to a Common-wealth then errors in Religi<g ref="char:EOLhyphen"/>on? and as it belongs to the prouidence and care of a good Gardener to preuent the one: So it appertaineth to Magi<g ref="char:EOLhyphen"/>ſtrates and Eccleſiaſticall gouernors to remedie the other, ſo neere as they can.</p>
+            <p>But it fals out ſometimes, that thoſe weedes onely which are growne great and apparant, are onely pluckt vp, the reſt
+<pb n="17" facs="tcp:173768:16"/>being neere the ground amongſt good hearbes are not ſo eaſily diſcerned, ſo is it with Sects, which if they once grow vp and ſhed their ſeede, they cannot be clenſed, they multi<g ref="char:EOLhyphen"/>ply ſo faſt, and grow ſo thick, that commonly they ouer<g ref="char:EOLhyphen"/>grow the good Religion. And likewiſe in goodly fruitfull Orchards, where trees are peſtered thick together, the bad trees that are vnfruitfull, hinder the proſpering of the good trees, that they cannot be ſo fruitfull as otherwiſe they might be. Euen ſo, is it with the good and ſound Religion of the Goſpell, amongſt other wicked Sects and diuiſions of opinions. But if laborers were purpoſely appointed for the one, and ſubordinate Miniſters for the other (becauſe the eie of the Magiſtrate cannot ſee all) both the one, and the other, might be freed from theſe great inconueniences.</p>
+            <q>
+               <l>For thoſe Trees properly are made to burne,</l>
+               <l>As ſome to build, and ſome for other turne.</l>
+            </q>
+            <p>The vſe of Trees is diuers, according to their natures: ſome are for timber and building as we read, 1. <hi>King.</hi> 5.56. <hi>And behold</hi> (ſaith <hi>Salomon) I purpoſe to build an houſe vnto the name of my Lord my God. Now therefore command that they hew me Cedar trees out of Lebanon:</hi> Of ſuch trees, that is, of the faithfull, God hath beautifully built his Church militant heere on earth <hi>Yea are Gods husbandrie, and Gods building,</hi> 1. <hi>Cor.</hi> 3.9. Now as concerning Thornes and Bryars, that is, the wicked, they were from the beginning ordained for the fire. And ſo likewiſe euery tree though it bring forth fruit, yet if the fruit be not good, <hi>it is hewen downe and caſt into the fire, Math.</hi> 7.10. <hi>If any man abide not in me</hi> (ſaith Chriſt) <hi>he is caſt forth as a braunch, and withereth, and men gather them, and caſt them into the fire, and they burne.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>13.</hi> This when I had peruſed curiouſly,</l>
+               <l>The Angell led mee to a goodly Vine-yard,</l>
+               <l>Kept by a Tyrant, who ſwore furiouſly,</l>
+               <l>That hee would kill mee with his bloody whineyard.</l>
+            </q>
+            <pb n="18" facs="tcp:173768:17"/>
+            <p> By this Vineyard is meant the Church of Rome (in re<g ref="char:EOLhyphen"/>ſpect the Goſpell of Chriſt is there preached, though with many hereſies) and by the Tyrant is vnderſtood the Pope, whoſe bloody diſpoſition I need not tell to the World, he is ſo wel known, &amp; manifeſted to be ſuch as <hi>Salomon</hi> ſpeaketh of, <hi>Pro.</hi> 28.15. <hi>As a Roaring Lyon is a wicked Ruler ouer the poore people, for he can neuer be ſatisfied, but euer oppreſſeth and ſpoi<g ref="char:EOLhyphen"/>leth,</hi> And he is worſe then <hi>Herod</hi> the tyrant, who ſent forth and ſlew all the male Children that were in Bethlehem, and in all the Coaſts thereof, from two yeare olde and vnder: For the Pope he neither ſpareth men, women nor children, yong nor olde. The Prophet <hi>Micah. cap.</hi> 3.2. writing againſt the tyranny of falſe Prophets, ſaith, <hi>they hate the good and loue the euill, they pluck off their skinnes from them, and their fleſh from their bones, and they eate alſo the fleſh of the people and breake their bones, and chop them in peeces as for the pot, and as the fleſh within the Caldron.</hi> And as the Prophet <hi>Zeph.</hi> ſpake concerning the Citie of Ieruſalem, ſo it may be fitly applied to the Citie of Rome: <hi>Zeph.</hi> 3.1.2.3.4. <hi>Woe to her that is filthie and polluted, ſhe heard not the voice, ſhe receiued not correction, ſhe truſted not in the Lord, ſhe drew not neare vnto her God, her princes within her are as roaring lyons, her Iudges are as Wolues in the euening, which leaue not the bones till the morrow, her Prophets are light and wicked perſons, her prieſts haue polluted the Sanctuary, they haue wreſted the Law.</hi>
+            </p>
+            <q>The Angell ſau'd mee, —</q>
+            <p>
+               <hi>It is the Lord that deliuereth vs out of all aduerſitie,</hi> 2. <hi>Sam.</hi> 4.9. <hi>Dauid</hi> in the 22. Chapter of the ſame Booke 2.3. ver<g ref="char:EOLhyphen"/>ſes, confeſſeth, that <hi>the Lord was his Rock, his fortreſſe, and he that deliuered him:</hi> ſaying further, <hi>God is my ſtrength, in him will I truſt, my ſhield, and the horne of my Saluation, my high tower, and my refuge, my ſauiour, thou haſt ſaued me from vi<g ref="char:EOLhyphen"/>olence. Euery word of God is pure, he is a ſhield to them that truſt in him, Pro.</hi> 30.5.</p>
+            <q>
+               <pb n="19" facs="tcp:173768:17"/>
+               <l>— and compel'd him to</l>
+               <l>Declare the miſchiefes which hee there did do.</l>
+            </q>
+            <p>It is the iuſtice of God, that the wicked confeſſe their ſins to their condemnation, for they will not belieue to obtaine remiſſion: and their owne words ſhall be a ſufficient proofe to condemne them if there were no other thing.</p>
+            <p>
+               <hi>Euery man ſhall be iuſtified or condemned by the words of his owne mouth, Math.</hi> 12.37. <hi>Pharaoh called for Moſes and Aaron, and confeſſed that he had ſinned, and that the Lord is righteous, but he and his people were wicked, Exod.</hi> 9.27.</p>
+            <q>
+               <hi>14.</hi> Then thus the Tyrant timerouſly ſaid,</q>
+            <p>This ſheweth that the power of God maketh the wicked afraid: The Iſraelites hauing ſeene <hi>the mightie power of God, feared the Lord, Exod.</hi> 14.31. <hi>Adam</hi> after he had ſinned was afraid of God, <hi>Gen.</hi> 3.10.</p>
+            <p>And the word of the Lord is heerein fulfilled, for the Lord threatneth <hi>they ſhall be afraid in their chambers, which prouoke him by Idolatrie, Deut.</hi> 32.25.</p>
+            <q>
+               <l>Northward from hence there is within a Land,</l>
+               <l>Amidſt the Sea, a fruitfull Paradice made,</l>
+               <l>Where goodly Vines in curious order ſtand,</l>
+               <l>Which proue exceeding plentifull:—</l>
+            </q>
+            <p>That is within this Iland of great Britaine, which lieth Northward from Rome, the Goſpell of Ieſus Chriſt which is compared to a fruitfull Paradice of Vines, which plenti<g ref="char:EOLhyphen"/>fully abound, and the profeſſion thereof is ſpreadth ough<g ref="char:EOLhyphen"/>out the ſame, like as goodly Vines floriſh and ſpread. The Prophet <hi>Dauid</hi> ſpeaking of the Church, <hi>Pſal.</hi> 80.8. compares it to a Vine, <hi>Thou haſt brought a Vine out of Aegypt, thou haſt caſt out the Heathen, and planted it, thou madeſt roome for it, and diddeſt cauſe it to take roote, and it filled the Land, the mountaines were couered with the ſhadow of it, and the boughs thereof are like the goodly Cedars, ſhee ſtretched out her braun<g ref="char:EOLhyphen"/>ches vnto the Sea, and her boughs vnto the Riuer.</hi>
+            </p>
+            <pb n="20" facs="tcp:173768:18"/>
+            <p> 
+               <hi>I am the Vine</hi> (ſaith Chriſt) <hi>and my father is an husband-man, Iohn</hi> 15.1.</p>
+            <q>
+               <l>— And there</l>
+               <l>I ſometime great authoritie did beare.</l>
+            </q>
+            <p>Too great was the Popes authoritie in this Kingdome, when before the Reigne of King <hi>Henry</hi> the eight he had the ſupremacie.</p>
+            <q>
+               <l>
+                  <hi>15.</hi> And thoſe faire Vines to all eſtates were free,</l>
+               <l>As well the Plough-man as the Potentate,</l>
+               <l>And euery beggar might ſufficed bee,</l>
+               <l>Without controlement of the Magiſtrate,</l>
+            </q>
+            <p>The freedome of the Goſpell is two-fold: free of ex<g ref="char:EOLhyphen"/>pence and reſtraint. The Apoſtle <hi>Paul</hi> 1. <hi>Cor.</hi> 9.18. ſpeaking of the Preaching of the Goſpell, ſaith thus, <hi>What is my re<g ref="char:EOLhyphen"/>ward then, verily, that when I preach the Goſpell I make the Goſpell of Chriſt free, that I abuſe not mine authoritie in the Go<g ref="char:EOLhyphen"/>ſpell,</hi> that is, that I be not chargeable to them to whom I preach, ſeeing that they thinke I preach it for gaines.</p>
+            <p>And the ſame Apoſtle, 2. <hi>Tim.</hi> 2.8.9. exhorting <hi>Timothie</hi> to be conſtant in trouble, to ſuffer manly, and to abide faſt in the wholeſome Doctrine of our Lord Ieſus Chriſt, bids him remember, <hi>that Ieſus Chriſt made of the ſeede of Dauid, was raiſed againe from dead,</hi> according to Saint <hi>Pauls</hi> Goſ<g ref="char:EOLhyphen"/>pell, wherein the Apoſtle <hi>ſuffered trouble as an euill doer euen vnto bonds, but the word of God is not bound,</hi> thereby ſhewing that notwithſtanding his impriſonment, the word of God hath his race, and increaſeth.</p>
+            <q>
+               <l>That all degrees by vertue of that Grape,</l>
+               <l>Grew perfect wiſe, ſober, temperate.</l>
+            </q>
+            <p>Who ſeeke wiſedome early ſhall finde it, that is, they that ſtudy the word of God diligently, and with a deſire to pro<g ref="char:EOLhyphen"/>fit ſhall finde wiſedome: <hi>Riches and honour are with her, euer durable riches and Righteouſneſſe,</hi> that is, <hi>ſpirituall treaſures and heauenly things, Pro.</hi> 8.17.16. <hi>Moſes</hi> exhorting the people to keepe the ordinances and lawes of God, <hi>Deut.</hi> 4.6. tels them
+<pb n="21" facs="tcp:173768:18"/>that is their wiſedome and their vnderſtanding in the ſight of the people, which ſhall heare all thoſe ordinances, and ſhall ſay, onely this people is wiſe, and of vnderſtanding, and a great Nation. The wiſedome of the World is but fooliſhneſſe with God, 1. <hi>Cor.</hi> 1.20. <hi>But vnto them which are called both of the Iewes and Grecians, Chriſt is the power of God and the wiſedome of God, for the fooliſhneſſe of God is wiſer then men, and the weakneſſe of God is ſtronger then men,</hi> 1. <hi>Cor.</hi> 1.24.25.</p>
+            <p>Alſo the wordes of God are the words of ſobrietie and truth, as appeareth in the <hi>Acts</hi> of the Apoſtles 26.25. where the Apoſtle <hi>Paul</hi> rehearſing his conuerſation to approue his Innocencie, being accuſed before <hi>Feſtus,</hi> ſaid, <hi>I am not mad noble Feſtus, but ſpeake the words of truth and ſoberneſſe.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>16.</hi> But I by craft and deuilliſh inuention,</l>
+               <l>Deſiring their ſubuerſion, cut thoſe Vines</l>
+               <l>Vnſeaſonably, to hinder their extention</l>
+               <l>In growth and ſpreading: —</l>
+            </q>
+            <p>The Deuill and the Pope haue euer yet beene enuious a<g ref="char:EOLhyphen"/>gainſt the propagation of the Goſpell, and haue laboured by all the deuiſes that poſſibly they could, to extinguiſh, or at leaſt to obvmbrate the true light thereof, wherefore it was a ſubtile deceit of the Pope, to haue the word of God ſet forth in the Latine Tongue, which the common people could not vnderſtand, whereby the knowledge of the Goſ<g ref="char:EOLhyphen"/>pell was like the Sunne in Eclips, and could not be ſo gene<g ref="char:EOLhyphen"/>rally ſpread as if it had beene written in their naturall En<g ref="char:EOLhyphen"/>gliſh, ſo thereupon it may be ſaid, that it was vnſeaſonably cut, to hinder the extention thereof.</p>
+            <p>The Apoſtle <hi>Paul,</hi> 1. <hi>Cor.</hi> 14.1.2. ſpeaking againſt prayer and ſeruice in a ſtrange tongue, exhorteth men to <hi>follow af<g ref="char:EOLhyphen"/>ter loue, and couet ſpirituall gifts, and rather, that they may pro<g ref="char:EOLhyphen"/>pheſie,</hi> (that is, to expound the word of God to the edifica<g ref="char:EOLhyphen"/>tion of the Church) <hi>for he that ſpeaketh a ſtrange tongue, ſpeaketh not vnto men but vnto God, for no man heareth him,</hi> (that is, vnderſtandeth him.)</p>
+            <pb n="22" facs="tcp:173768:19"/>
+            <p> Alſo in the 4 and 5. <hi>verſes</hi> of the ſame Chapter, the Apo<g ref="char:EOLhyphen"/>ſtle ſaith, <hi>he that ſpeaketh ſtrange language edifieth himſelfe</hi> (for he profiteth none ſaue himſelfe) <hi>greater is he that pro<g ref="char:EOLhyphen"/>pheſieth, then he that ſpeaketh diuers tongues, except he expound it that the Church may receiue edification.</hi>
+            </p>
+            <q>
+               <l>— And as oftentimes</l>
+               <l>As J with blood the Rootes ſhould haue made moist,</l>
+               <l>A poyſon ſtrong I cloſely in did foist.</l>
+            </q>
+            <p>That is, As often as the Pope and his Miniſters ſhould haue ſincerely deliuered the word of God to the people ac<g ref="char:EOLhyphen"/>cording to truth, whereby it might haue taken roote in their hearts, So often they preached their owne inuentions, brin<g ref="char:EOLhyphen"/>ging in many horrible new hereſies which poiſoned the peoples vnderſtanding. Saint <hi>Paul</hi> gaue them other directi<g ref="char:EOLhyphen"/>on, 2. <hi>Tim.</hi> 2.15. <hi>Studie</hi> (ſaith he) <hi>to ſhew thy ſelfe approued vn<g ref="char:EOLhyphen"/>to God, a workeman that needeth not be aſhamed deuiding the word of truth aright.</hi> But the words of that holy Apoſtle, 1. <hi>Tim.</hi> 4.1.2.3. are truely verifide in the Pope and his Mini<g ref="char:EOLhyphen"/>ſters. Now the ſpirit ſpeaketh euidently, <hi>That in the latter times ſome ſhall depart from the faith, and ſhall giue heede vn<g ref="char:EOLhyphen"/>to ſpirits of error, and doctrines of Deuils</hi> (meaning falſe tea<g ref="char:EOLhyphen"/>chers) <hi>which ſpeaking lies through hypocriſie, haue their conſci<g ref="char:EOLhyphen"/>ences burned with an hot Yron, forbidding to marry, and com<g ref="char:EOLhyphen"/>manding to abſtaine from meates, which God hath created to be receiued with giuing thankes, of them which belieue and know the truth.</hi> And as for the Goſpell, as it is profeſſed by them, <hi>Deut.</hi> 32.32.33. there it is decyphered, <hi>Their Vine is the Vine if Sodom and the Vines of Gomorah; their Grapes are Grapes of gall, their Cluſters be bitter, their Wine is the poyſon of the Dragons, and the cruell gall of Aſpes.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>17.</hi> Which to conceale from mens detection,</l>
+               <l>This trick I had, I ſuffer'd none to come</l>
+               <l>Within that Paradice to make collection,</l>
+            </q>
+            <p>To caſt a miſt before the peoples eies, that they might not
+<pb n="23" facs="tcp:173768:19"/>diſcerne the falſe Doctrine and ſuperſtitious ceremonies which were then brought into the Church, the Pope would ſuffer none to haue the bible in Engliſh, leaſt their hereſies ſhould be detected, and their diſcipline deſpiſed, (for the Pope and his Miniſters know in their conſciences, if they haue any conſciences, (or elſe God lighten their vnderſtan<g ref="char:EOLhyphen"/>ding that they may know) that their Doctrine is a Doctrine of vanitie, and the worke of errors, according to the Pro<g ref="char:EOLhyphen"/>phet <hi>Iere.</hi> 10.8. <hi>They altogether dote, and are fooliſh, for the ſtock is a Doctrine of vanitie: Where becauſe the people thought that hauing Images was a meane to ſerue God, and to bring them to the knowledge of him, the prophet ſheweth, that nothing more diſpleaſeth God, nor bringeth man into greater errors and ignorance of God.</hi>
+            </p>
+            <q>
+               <l>But I my ſelfe in perſon, or elſe ſome</l>
+               <l>Of my confederates, whom I put in truſt,</l>
+               <l>Deliuer'd them how, and to whom we luſt.</l>
+            </q>
+            <p>The common people wanting the knowledge of the La<g ref="char:EOLhyphen"/>tine tongue, were forced to receiue the word from the Prieſts, deliuered according to their owne fantaſies, and ſo were deluded by theſe falſe teachers: of whom the Apoſtle <hi>Peter</hi> propheſied, 2. <hi>Peter</hi> 2.1.2.3. <hi>But there were falſe Pro<g ref="char:EOLhyphen"/>phets alſo among the people, euen as there ſhall be falſe teachers among you, which priuily ſhall bring in damnable hereſies, euen denying the Lord that hath bought them, and bring vpon them<g ref="char:EOLhyphen"/>ſelues ſwift damnation, and many ſhall follow their damnable waies, by whom the way of truth ſhall be euill ſpoken of, and with couetouſneſſe ſhall they, with feigned words make marchan<g ref="char:EOLhyphen"/>dize of you,</hi> which is euidently ſeene in the Pope and his Prieſts, which by lies and flatteries ſell mens ſoules, ſo that it is certaine that he is not the ſucceſſor of <hi>Simon Peter,</hi> but of <hi>Simon Magus.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>18.</hi> Many diſeaſes heerevpon did grow,</l>
+               <l>The Ague, Palſey, Megrims, Scurfe and Scab,</l>
+            </q>
+            <pb n="24" facs="tcp:173768:20"/>
+            <p> This falſe Doctrine brought in by the Pope and his Prieſts hath wrought many ſects, opinions and diuiſions in this our true Catholike-Church, and by that meanes, many doubts, queſtions and controuerſies did ariſe, which are compared to Agues, Palſies, and Megrims, and are as great a blemiſh to the true faith in Ieſus Chriſt, as a ſcurffe or ſcab is to a na<g ref="char:EOLhyphen"/>turall mans body. For this cauſe ſaith Saint <hi>Paul,</hi> 1. <hi>Cor.</hi> 11.30. <hi>Many are ſick and weake among you, and many ſleepe,</hi> that is, they died or be dead.</p>
+            <q>
+               <l>The cauſe of ſickneſſes they did not know,</l>
+               <l>For no man of the Grapes ſuſpition had.</l>
+            </q>
+            <p>The Pope and his Prieſts will ſay that they are the people of God, make a faire outward ſhew of ſanctitie in words, but not in Action, for they abuſe Gods name, and colour it with ſhadow of Religion to cloake their hypocriſie. The Prophet <hi>Micah</hi> 3.11. ſpeaking of the heads of the houſe of <hi>Iaakob</hi> and the Princes of the houſe of Iſraell, figureth out plainely the ſtate of Rome: ſaying, <hi>They abhorre iudgement, and peruert all equitie. They build vp Zion with blood, and Ie<g ref="char:EOLhyphen"/>ruſalem with iniquitie,</hi> (that is, they build them houſes by bri<g ref="char:EOLhyphen"/>bery) <hi>The heads thereof iudge for rewards, and the Prieſts there<g ref="char:EOLhyphen"/>of teach for hire, and the Prophets thereof propheſie for money, yet will they leane vpon the Lord, and ſay, is not the Lord amongſt vs? no euill can come vpon vs:</hi> Which hypocriſie being thus cloaked with Religion, is the more free from ſuſpition of the people.</p>
+            <q>
+               <l>By this I got at ending of their daies,</l>
+               <l>All that they had for Roſemary and Bayes.</l>
+            </q>
+            <p>The ſilly people were taught ſuch blinde deuotion, that notwithſtanding their daily offerings to Idols, which came to the vſe of the Prieſts, and whereby they grew exceeding rich, commonly at the time of their deaths, they would be<g ref="char:EOLhyphen"/>queath all, or the greateſt part of their ſubſtance to maſſing Prieſts, for maintenance of lights, obits, and prayers for
+<pb n="25" facs="tcp:173768:20"/>their ſoules, perſwading themſelues verily that they ſhould neuer be ſaued without ſuch fond babling, and ſo the whole Kingdome almoſt came into the hands of the Church-men. So thoſe Dirges are alluded to a little Roſemary and Baies, as to a thing of no value or reſpect, but they are hardly ſo good, for indeed the Roſemarie and Baies is a decent orna<g ref="char:EOLhyphen"/>ment for the corps when it is carried to the graue, but as for the ſongs and prayers and their feighned power to doe the ſoule of the dead any good, or to be any ornament there<g ref="char:EOLhyphen"/>vnto, there is no true Chriſtian but will hold him a very ſimple vnderſtanding man that imagines it. For as a man dieth, ſo ſhall he come to iudgement. <hi>Eccleſ.</hi> 11.3. <hi>If the tree doe fall toward the South or toward the North, in the place that the tree falleth there it ſhall be.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>19.</hi> At length my diuelliſh purpoſe was deſcried</l>
+               <l>By one that vomited a poyſoned Grape,</l>
+               <l>By reaſon of an Antidote applied,</l>
+            </q>
+            <p>The whole circumſtance heereof is largely and truely re<g ref="char:EOLhyphen"/>corded in the booke of the Martyrs of the kingdome of England, among the memorials and acts done in the time of the Reigne of King <hi>Henry</hi> the eight, to which for breuitie the Reader ſhall be referred. Thus much onely may be ſaid, That it pleaſed the Lord to illuminate the vnderſtan<g ref="char:EOLhyphen"/>ding of that renowned, vertuous and well affected king with the light of his truth, whereby he diſcerned the hypocriſie of the Pope and his miniſters, And then cauſed the Bible to be printed in Engliſh, and the glorious Goſpell of Chriſt Ieſus to be truely preached, and ſo the whole kingdome was plentifully fed with the heauenly and ſpirituall foode of the Soule, which that famous and bleſſed King hauing recei<g ref="char:EOLhyphen"/>ued and digeſted, it was to him as a preſeruatiue, or an An<g ref="char:EOLhyphen"/>tidote againſt the Hereſies of Rome, and cauſed him as it were to vomit out thoſe vilde errors out of the Church of England.</p>
+            <q>
+               <pb n="26" facs="tcp:173768:21"/>
+               <l>And all the Countrie then did beare me hate,</l>
+               <l>And for thoſe faults which I committed there,</l>
+               <l>They baniſht me, and ſo I thence came here.</l>
+            </q>
+            <p>Heere the people began to obſerue the Doctrine and inſtitution of Saint <hi>Paul,</hi> that is, <hi>to flie from Idolatrie,</hi> 1. <hi>Cor.</hi> 10.14. and to hate thoſe deteſtable follies, and ſuperſti<g ref="char:EOLhyphen"/>tious vanities which hindred them from the true ſeruice of God, according as our Sauiour Chriſt ſaith, <hi>Luke</hi> 14.26. <hi>If any man come to me and hate not his Father and Mother, and Wife and Children, and Brethren and Siſters, yea, and his owne life alſo</hi> (that is, he that caſteth not off all affections and de<g ref="char:EOLhyphen"/>ſires which draw vs from Chriſt) <hi>cannot be my Diſciple.</hi> And the gouernment of the Church being ſetled according to the profeſſion now vſed, the Pope was not onely iuſtly de<g ref="char:EOLhyphen"/>priued of his Supremacie, but his authoritie and traditions were quite aboliſhed out of the kingdome, his Miniſters put to ſilence, their religious or rather irreligious houſes (as I may rightly terme them) vtterly defaced, according as the Lord commanded. <hi>Deut.</hi> 12.2. <hi>Yee ſhall vtterly deſtroy all the places wherein the Nations which yee ſhall poſſeſſe ſerued their Gods vpon the high Mountaines, and vpon the hils, and vnder euery greene tree, Alſo ye ſhall ouerthrow their Altars, and breake downe their pillars, and burne their groues with fire, and yee ſhall hew downe the grauen Images of their Gods, and abo<g ref="char:EOLhyphen"/>liſh their names out of that place.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>20.</hi> And all theſe Vines which heere you planted ſee,</l>
+               <l>Are of that ſort, which I from thence did bring:</l>
+            </q>
+            <p>The Pope and his Miniſters in the manner of their wor<g ref="char:EOLhyphen"/>ſhip in many things doe much derogate from Gods glory, inſolently attributing their praiers either to dumbe Idols, or to Saints, or Angels, which can doe them no more good then the <hi>golden Calfe that the Iſraelites worſhipped, Exod.</hi> 22.4. Which afterwards <hi>Moſes</hi> aboliſhed, <hi>Exod.</hi> 32.20.</p>
+            <p>Such was the Religion of the Romiſh Catholike when
+<pb n="27" facs="tcp:173768:21"/>that Religion was heere profeſſed, and ſuch or rather worſe is it now at Rome.</p>
+            <q>
+               <l>And I haue cauſed other Weedes to bee</l>
+               <l>Set with them, that they may together ſpring,</l>
+               <l>And both at one time put into the Preſſe,</l>
+               <l>The Grapes and Weedes, to make a mingled meſſe.</l>
+            </q>
+            <p>By theſe Weedes is meant the worſhipping of Idols inuo<g ref="char:EOLhyphen"/>cation of Saints, their rabling repetitions of <hi>Pater-Noſters, Aue-Maries</hi> and <hi>Creedes,</hi> their ſuperfluous Sacraments. Tran<g ref="char:EOLhyphen"/>ſubſtantiation, their obits, lights, and prayers for the dead; the Popes Buls and Pardons, and many other ſuch vaine in<g ref="char:EOLhyphen"/>uentions which were neuer heard of in the time of the Apo<g ref="char:EOLhyphen"/>ſtles, nor ſince vſed in any Church but in theirs, neither in<g ref="char:EOLhyphen"/>deed ought any ſuch to be vſed, ſeeing the Lord hath forbid<g ref="char:EOLhyphen"/>den it with his owne mouth, as it is in <hi>Deut.</hi> 22.9. <hi>Thou ſhalt not ſowe thy Vineyard with diuers kindes of ſeedes, leaſt thou de<g ref="char:EOLhyphen"/>file the increaſe of the ſeede which thou haſt ſowed, and the fruit of the Vineyard.</hi> By this is meant, we ſhould walke in ſimplici<g ref="char:EOLhyphen"/>tie and not to be curious of new inuentions. But by this meanes it is true of them that was ſpoken by the Prophet <hi>Iſa.</hi> to the Iewes, <hi>Iſa.</hi> 1.22. <hi>Thy ſiluer is become droſſe, thy wine is mixt with water,</hi> that is, whatſoeuer was pure in thee before is now corrupt though thou haue an outward ſhew.</p>
+            <q>
+               <l>
+                  <hi>21.</hi> And to keepe well thoſe Weedes, I haue ordain'd,</l>
+               <l>They be continually vnderpropt with ſtakes,</l>
+               <l>By ſuch as I haue purpoſely retain'd,</l>
+               <l>Who in like caſe for their owne lucre ſakes,</l>
+               <l>Ten times more curious are to trimme and prime</l>
+               <l>Their branches, than the branches of the Vine.</l>
+            </q>
+            <p>By this is perceiued that Birdes of a feather will hold to<g ref="char:EOLhyphen"/>gether, The Pope and his Prelates to make their Doctrine more probable, haue conſpired together like the falſe Pro<g ref="char:EOLhyphen"/>phets and Prieſts of Ieruſalem, <hi>Ezechiel</hi> 22.25.26. <hi>There is a conſpiracie of her Prophets in the mids thereof like a Roaring Ly<g ref="char:EOLhyphen"/>on rauening the prey, they haue deuoured ſoules, they haue taken
+<pb n="28" facs="tcp:173768:22"/>the Riches and pretious things, they haue made her many widowes in the midſt thereof, her Prieſts haue broken my law and haue defi<g ref="char:EOLhyphen"/>led mine holy things, they haue put no difference betweene the holy and prophane, neither diſcerned betweene the vncleane and the cleane, and haue hid their eies from my Sabbaths,</hi> that is, they haue neglected my ſeruice, <hi>and I am prophaned amongst them.</hi> And theſe are ſuch as the Apoſtle <hi>Paul</hi> told <hi>Titus</hi> of, <hi>Tit.</hi> 1.10. ſaying, <hi>there are many diſobedient and vaine talkers and decei<g ref="char:EOLhyphen"/>uers of mindes, whoſe mouthes muſt be ſtopped, which ſubuert whole houſes, teaching things which they ought not, for lucres ſake,</hi> 2 <hi>Tim.</hi> 3.6. Of this ſort are they which creepe into houſes, and leade captiue ſimple women laden with ſinnes, and led with diuers luſts: And in the margent of that text, they are expounded to be Monkes, Friars, and ſuch hypocrites, which I alſo meane to be thoſe whom the Pope hath retained and appointed in his Church to vphold his hereſies.</p>
+            <q>
+               <l>
+                  <hi>22.</hi> This mingle mangle compoſition,</l>
+               <l>Hath much beſotted all the Peoples braines,</l>
+            </q>
+            <p>The Prophet <hi>Iſa.</hi> ſpeaking againſt the Iſraelites, to wit, of the hypocrites which were among them who were altoge<g ref="char:EOLhyphen"/>ther corrupt in life and doctrine, cryeth out againſt them. <hi>Iſa.</hi> 28.7.8. <hi>They haue erred becauſe of wine, and are out of the way by ſtrong drinke, the Prieſt and the Prophet haue erred by ſtrong drinke, they are ſwallowed vp with wine, they haue gone aſtray through ſtrong drinke, they faile in viſion, they ſtumble in in iudgement, for all their tables are full of filthy vomiting, no place is cleane.</hi> And as naturall wine immoderately taken be<g ref="char:EOLhyphen"/>ſotteth the braines of the outward man, and cauſeth drun<g ref="char:EOLhyphen"/>kenneſſe, ſo the ſuperfluitie and dregs of the Romiſh hereſies filleth the inward mans vnderſtanding with ſpirituall drun<g ref="char:EOLhyphen"/>kenneſſe, a beaſtly kinde of life, vomiting their vncleane er<g ref="char:EOLhyphen"/>rors out of their foule gorges,
+<q>
+                  <l>And ſuch is their fond ſuppoſition,</l>
+                  <l>They hold him curſt that from this drinke refraines:</l>
+               </q>
+            </p>
+            <p>It is not vnknowne to any that know any thing at all of the
+<pb n="29" facs="tcp:173768:22"/>Popes malitious diſpoſition, how he and his Prelates curſe the children of God (that follow not his vilde traditions) with Bell, Booke and Candle, as they ſay: Witneſſe his Buls, which very often haue beene ſent out againſt the Lords annointed Kings and Princes and their People and Nations, and alſo his excommunications. But as we are the children of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> the father of the faithfull through Chriſt Ieſus, elected and called to our profeſſion, ſo let vs ſtand faſt in our faith, and then the Lord will turne their curſe vpon their owne heads, as he promiſed <hi>Abraham,</hi> ſaying; <hi>I will bleſſe them that bleſſe thee, and I will curſe them that curſe thee, Gen.</hi> 12.3.</p>
+            <q>
+               <l>The gaines being great for ſelling of this Ale,</l>
+               <l>Hath lift my head as high as Dragons taile.</l>
+               <l>
+                  <hi>23.</hi> And all the Countrie call me Demy-god,</l>
+               <l>Bending their knees to me with great deuotion,</l>
+               <l>And offer Gold, Iewels and Emmerods,</l>
+               <l>And all they haue for this my potion:</l>
+            </q>
+            <p>The yearely profit which comes into the Popes treaſurie for pardons and redemption of Soules out of Purgatorie, a<g ref="char:EOLhyphen"/>mounteth to a great ſum, The <hi>Peter</hi>-pence ſpoken of in the booke of Martyrs paid quarterly to the Friars, came to aboue 500000 li. yearely alone, Their mortuaries, gifts and lega<g ref="char:EOLhyphen"/>cies for Requiems, obits, and lights, is an vnknowne value, The peoples offerings at the Altar and to Images which come to the Prieſts vſe, is a ſecret gaine. But if we reckon all the tricks which they haue to get money, and adde the profit together, it will ariſe vnto an vnſpeakeable maſſe of wealth. The Booke of Martyrs in the time of King <hi>Henry</hi> the eight, demonſtrateth many worthy memorials heereof, and other the deuiſes of the Pope and his Prelates, to which I alſo re<g ref="char:EOLhyphen"/>fer the Reader. But by this means we ſee the Pope is growne mightie in riches and power, And as the Apoſtle <hi>Paul</hi> ſaith, 2. <hi>Theſ.</hi> 2.4. ſpeaking of Antichriſt, <hi>he exalteth himſelfe againſt all that is called God, or that is worſhipped, ſo that he doth ſit as God in the Temple of God, ſhewing himſelfe that he is God.</hi>
+            </p>
+            <q>
+               <pb n="30" facs="tcp:173768:23"/>
+               <l>But out alas, their blind inchaunted ſight</l>
+               <l>Sees not the Adder me that doth them bite.</l>
+            </q>
+            <p>The Apoſtle <hi>Paul</hi> to the <hi>Eph.</hi> 4.18. as before is ſaid, exhor<g ref="char:EOLhyphen"/>teth the Epheſians <hi>not to walke as other Gentiles in vanitie of their minde, hauing their cogitations darkened, and being ſtran<g ref="char:EOLhyphen"/>gers from the life of God through the ignorance that is in them, becauſe of the hardneſſe of their hearts.</hi> Which example is very good for vs to follow, Let vs not walke as the Romiſh Catho<g ref="char:EOLhyphen"/>likes, for it is with them as it was with the Iſraelites when they prouoked the Lord with ſtrange Gods by changing his ſeruice for their ſuperſtitions, <hi>Deut.</hi> 32.28. <hi>They are a Nation void of Councell, neither is there any vnderſtanding in them.</hi> For if the Romiſh Catholikes were directed by the true light of the Goſpell, <hi>which maketh all things manifeſt, Eph.</hi> 5.13. they would eaſily diſcerne the deluſions of the Pope and his Mini<g ref="char:EOLhyphen"/>ſters, who deceiueth them as the Serpent deceiued <hi>Euah.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>24.</hi> And that my gaine may be enlarg'd the more,</l>
+               <l>I haue deuiſ'd a Law on Paine of death,</l>
+               <l>That none the Iuyce of Grapes ſhall taſt, before</l>
+               <l>The Iuyce of Weedes be mixt, whereby of breath</l>
+               <l>I haue bereaued thouſands with this blade,</l>
+               <l>Which for that purpoſe onely I haue made.</l>
+            </q>
+            <p>Here is ſet forth the tyrannie and bloody perſecution of the Pope. We reade <hi>Acts</hi> 8.1. <hi>that Stephen was ſtoned to death for the Goſpell of Ieſus Chriſt, and that at that time there was a great perſecution againſt the Church which was at Ieruſalem, and they were all ſcattered abroad through the Regions of Iudea and Sama<g ref="char:EOLhyphen"/>ria,</hi> except the Apoſtles.</p>
+            <p>But if we turne ouer all the Hiſtories of the Iewes and Gentiles, we ſhall not finde greater examples of crueltie, and more diuelliſh plots of treachery, againſt the true Church of God then hath beene acted and conſpired by the Pope and his confederates, Prieſts, Ieſuites, Fryars, Monkes, &amp;c. and their followers. Witneſſe that heauenly Communion of Saints, that great companie of Martyrs which haue patiently
+<pb n="31" facs="tcp:173768:23"/>ſuffered death for the Goſpell, by his cruell and bloody hand, ſome in this our Nation, and thoſe an infinite number, ſome in France, Italy, Germanie, and other places beyond the Seas. So that if there were no other argument, this were ſufficient to proue that his inuentions proceed from the Deuill and not of God nor good men.</p>
+            <p>Wee reade in the <hi>Reuel.</hi> 17.4. of a viſion deſcribed <hi>of a wo<g ref="char:EOLhyphen"/>man araied in purple and ſcarlet and guilded with gold, &amp;c.</hi> This woman is the Antichriſt, that is, the Pope with the whole body of his filthie creatures: who afterwards in the 6. <hi>verſe</hi> of the ſame Chapter (inferring his mercileſſe ſeueritie) is ſaid, <hi>to be drunken with the blood of Saints, and with the blood of the Mar<g ref="char:EOLhyphen"/>tyrs of Ieſus.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>25.</hi> The Angell anſwer'd, for this Impious fact,</l>
+               <l>A iudgement on thee ſuddenly ſhall come,</l>
+               <l>Worſe then the Serpents curſe, for his vilde Act</l>
+               <l>Which in deluding <hi>Euah</hi> he had done:</l>
+               <l>Vengeance from Heauen ſhall one day driue thee out</l>
+               <l>From this faire Vineyard with thy Rabble rout.</l>
+            </q>
+            <p>Here is ſet forth the iudgement of him and all perſecuters. The viſion of the beaſt mentioned, <hi>Reuel.</hi> 17.8. is meant by the Romane Empire, which being fallen into decay, the whore of Rome vſurped authoritie, and as he proceeded from the Deuill, thither ſhall returne, as in the Margent of the Text. The words are theſe, <hi>The beaſt that thou haſt ſeene was and is not, and ſhall aſcend out of the bottomeleſſe pit, and ſhall goe into perdition.</hi> And <hi>Reuel.</hi> 18.2. the ouerthrow of Rome is deſcri<g ref="char:EOLhyphen"/>bed vnder the name of Babylon, thus, <hi>And the Angell cried out mightily with a loud voice, ſaying, It is fallen, it is fallen, Babylon that great Citie, and is become the habitation of Deuils, and the hold of all foule ſpirits, and a Cage of euery vncleane and hatefull bird.</hi> Againe, <hi>Reuel.</hi> 19.19.20. the deſtruction of Rome is pre<g ref="char:EOLhyphen"/>figured in theſe words, <hi>And I ſaw the beaſt, and the Kings of the earth, and their warriours gathered together to make battaile a<g ref="char:EOLhyphen"/>gainſt him that ſate on the horſe and againſt his ſouldiors,</hi> (that is,
+<pb n="32" facs="tcp:173768:24"/>the Pope and the worldly Princes ſhall fight againſt Chriſt) <hi>but the beaſt was taken, and with him that falſe Prophet that wrought miracles before him, whereby he deceiued them that re<g ref="char:EOLhyphen"/>ceiued the beaſts marke, and them that worſhipped his Image, Theſe both were caſt into a lake of fire burning with brimſtone:</hi> (which will be accompliſhed at the ſecond comming of Chriſt.) Alſo <hi>Reuel.</hi> 20.10. there is his perpetuall damnation ſet forth in theſe words, <hi>And the Deuill that deceiued them, was caſt into a lake of fire and brimſtone, where the beaſt and the falſe Prophet ſhall be tormented euen day and night for euermore.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>26.</hi> Who pitifully ſhall lament thy caſe,</l>
+               <l>The aſpect thereof will be ſo vehement:</l>
+            </q>
+            <p>It is written of the whore of Babylon, <hi>Reuel.</hi> 8. <hi>ver.</hi> 8.9.10.11. <hi>That her plagues ſhall come at one day, death, and ſorrow, and fa<g ref="char:EOLhyphen"/>mine, and ſhe ſhall be burnt with fire, for ſtrong is the Lord God which will condemne her, And the kings of the earth ſhall bewaile her, &amp; lament for her which haue committed fornication and liued in pleaſure with her, when they ſhall ſee the ſmoake of her burning, and ſhall stand a farre off for feare of her torment, ſaying, Alas, alas, the great Citie of Babilon, the mightie Citie, for in one hower is thy iudgement come, And the Marchants of the earth ſhall weep and waile ouer her, for no man buyeth her ware any more,</hi> By that is meant both they that temporally haue had profit by the ſtrumpet, and alſo the ſpirituall Marchants ſhall for ſorrow and want of their gaine cry out and diſpaire, for beſides their ſpirituall liuings, the Monkes and Friars, as ſometimes they were heere in England, being ſtewards to Cardinals, Biſhops and Abbots were temporall Marchants, and held and occupi<g ref="char:EOLhyphen"/>ed Farmes, Mannors, and Graunges, &amp;c.</p>
+            <q>
+               <l>But others ſhall reioice at thy diſgrace,</l>
+               <l>And for deliuerance from thy miſchiefes ſent.</l>
+            </q>
+            <p>The Children of God ſhall reioice at the fall of Antichriſt, as in the <hi>Reuel.</hi> 19.1. praiſes are giuen to God for iudging the whore, and for auenging the blood of his ſeruants, in theſe words: <hi>And after theſe things I heard a great voice of a great mul<g ref="char:EOLhyphen"/>titude in Heauen,</hi> ſaying, <hi>Hallelu-iah, Saluation, and glory, and
+<pb n="33" facs="tcp:173768:24"/>honour, and power, be to the Lord our God, for true and righteous are his iudgements, for he hath condemned the great whore, which did corrupt the earth with her fornication, and hath auenged the blood of his ſeruants ſhed by her hand.</hi>
+            </p>
+            <q>
+               <l>And therefore double ſhalt thou puniſht be,</l>
+               <l>For thy deluſion and vilde Tyrannie.</l>
+            </q>
+            <p>In the 137. <hi>Pſal. ver.</hi> 8.9. They are ſaid to be bleſſed that could repay the like to Babylon, where the Iſraelites were ſo tyrannouſly handled, <hi>O daughter of Babel worthie to be deſtroy<g ref="char:EOLhyphen"/>ed, bleſſed ſhall he be that rewardeth thee as thou haſt ſerued vs, bleſſed ſhall hee be that taketh and daſheth thy children againſt the ſtones.</hi> But in the <hi>Reu.</hi> 8.6. ſpeaking of the whore of Rome, it is ſaid that her reward ſhall be double, <hi>For there was a voice heard, ſaying, Reward her euen as ſhe hath rewarded you, and giue her double according to her workes, and in the cup that ſhe hath filled to you fill her the double.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>27.</hi> And then mee thought I was tranſlated thence</l>
+               <l>Into a Paradice repleniſhed</l>
+               <l>With fruitfull Trees, Corne, Vines, and Hearbes.</l>
+            </q>
+            <p>By this Paradice is meant the Kingdomes of England, Scot<g ref="char:EOLhyphen"/>land and Ireland A comprehenſible Type of the incompre<g ref="char:EOLhyphen"/>henſible excellencie of the holy Ieruſalem, ſpoken of in the <hi>Reuel.</hi> 21.10. deſcending out of Heauen from God. And by the Trees, Corne, Vines and Herbes, is vnderſtood how plen<g ref="char:EOLhyphen"/>tifully the word of God aboundeth there: for ſometimes the Goſpell of Ieſus is compared to a Tree, <hi>Reuel.</hi> 22.2. <hi>Which bea<g ref="char:EOLhyphen"/>reth</hi> 12. <hi>manner of fruits, and gaue fruit euery moneth, and the leaues of the tree ſerued to heale the Nations with:</hi> This is the tree of life, Chriſt the life of his Church, and is common to all his, and not peculiar to any one ſort of people. Sometimes the Goſpell is compared to Corne, as in the parable of the ſower. <hi>Math.</hi> 13.3. <hi>Behold a ſower went out to ſowe, &amp;c.</hi> Some<g ref="char:EOLhyphen"/>times it is compared to Vines, as before is mentioned in the 14. ſtaffe. And in reſpect the Goſpell is the Spirituall foode of the ſoule, it may be compared to herbes and any other ſu<g ref="char:EOLhyphen"/>ſtenance, which is the naturall foode of the bodie, applying
+<pb n="34" facs="tcp:173768:25"/>the one to the ſoule, ſpiritually, as the other is applied to the body naturally.</p>
+            <q>
+               <l>—from whence</l>
+               <l>The Tyrant had before beene baniſhed:</l>
+               <l>Who when he kept it was not ſo perfidious</l>
+               <l>As is the man that keepes it now Religious.</l>
+            </q>
+            <p>This our Nation is the Paradice where the Pope ſometime did beare ſuch great authoritie, as before is relation made in the 14. ſtaffe: And from whence he and his errors were aboli<g ref="char:EOLhyphen"/>ſhed as in the 19. ſtaffe: Whoſe perfidious treacherie, he him<g ref="char:EOLhyphen"/>ſelfe hath heere already at large demonſtrated. But the Lord be praiſed, wee haue now a Religious Soueraigne Lord King <hi>James,</hi> who is ſupreame head and gouernour of our Church vnder God, to whom for ſinceritie and truth in Reli<g ref="char:EOLhyphen"/>gion, the ſpeech of Saint <hi>Paul</hi> may be appropriated, <hi>Eph.</hi> 4.20. <hi>That he hath learned Chriſt, and hath heard him, and beene taught by him, as the truth is in Ieſus,</hi> that is, he hath caſt off concer<g ref="char:EOLhyphen"/>ning the conuerſation in time paſt <hi>the olde man, which is cor<g ref="char:EOLhyphen"/>rupt through the deceiueable luſts, and is renewed in the ſpirit of his minde, and hath put on the new man, which after God is created in righteouſneſſe and true holineſſe.</hi>
+            </p>
+            <p>And for integritie of life, he is like vnto <hi>Samuel,</hi> 1. <hi>Sam.</hi> 12.3. And for vprightneſſe in heart he is like vnto thoſe worthy Kings <hi>Ioſias, Hezekiah</hi> and <hi>Dauid,</hi> whoſe deſerued commenda<g ref="char:EOLhyphen"/>tions are ſingularly ſet forth in the Booke of <hi>Ecclus. cap.</hi> 49. And God grant that he may long liue to multiply his vertues in himſelfe and his Royall iſſue.</p>
+            <q>
+               <l>
+                  <hi>28.</hi> For hauing Children, he inſtructs them how</l>
+               <l>They may thoſe Trees, Corne, Vines and hearbs beſt keepe</l>
+               <l>From Caterpillers, Cankers, and the Sow,</l>
+               <l>That longs into that place by ſtealth to creepe,</l>
+               <l>To ſpoile the Paradice; Of which there were</l>
+               <l>Some by that Tyrant left of purpoſe there.</l>
+            </q>
+            <p>By the Caterpillers and Cankers is meant al ſuch as either enuie, or wiſh hurt to, or depraue, derogate or ſpeake ill of
+<pb n="35" facs="tcp:173768:25"/>the true Preaching of the Goſpell of Chriſt, of what Religion or Sect ſoeuer they be: But by the Sow is particularly inten<g ref="char:EOLhyphen"/>ded the Papiſt, of which ſort their be too many yet remaining that doe much hurt ſecretly to the weake members of our Church, animated and ſet on by the Pope, but by the Religi<g ref="char:EOLhyphen"/>ous care of our vertuous King, the Paradice is pretty well rid of them, the Church is reaſonably cleered, and the word of God more plentifully planted amongſt vs, then heeretofore it hath beene. And heerein all the World may ſee his Maie<g ref="char:EOLhyphen"/>ſties great prouidence in the education of his children, for the continuance and vpholding of the Goſpell, according to the commandements of the Lord, <hi>Deut.</hi> 11.18.19. <hi>Therefore ſhall you lay vp theſe my words in your heart, and in your ſoule, and binde them for a ſigne vpon your head, that they may be as a frontlet be<g ref="char:EOLhyphen"/>tweene your eies, and you ſhall teach them your children, ſpeaking of them when thou ſitteſt in thine houſe, and when thou wal<g ref="char:EOLhyphen"/>keſt by the way, and when thou lieſt downe, and when thou riſeſt vp.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>29.</hi> So that this Paradice is like to flowriſh</l>
+               <l>Vntill the finall period of all things,</l>
+               <l>For his faire iſſue know well how to nouriſh</l>
+               <l>Thoſe holy Plants, and thoſe cleere water-springs,</l>
+               <l>Running there-through to keepe from foule pollution,</l>
+               <l>Till all things haue their finall diſſolution.</l>
+            </q>
+            <p>Heere is ſet forth the excellent towardneſſe of our renow<g ref="char:EOLhyphen"/>ned Prince <hi>Charles</hi> Prince of Wales, <hi>Frederike</hi> Prince Elector Palatine, and the Lady <hi>Elizabeth</hi> his wife, as the iſſue of our royall King, which may well be ſaid to be faire and beautifull: Not as <hi>Abſolon, That was comely in outward proportion onely,</hi> 2. <hi>Sam.</hi> 14.25. Nor as <hi>Saul, which was a goodly yong-man and a faire,</hi> 1. <hi>Sam.</hi> 9.2. <hi>for among all the children of Iſraell there was none goodlier then he in perſon,</hi> Nor as the daughters of men, <hi>whom the ſonnes of God ſaw were faire, Gen.</hi> 6.2. For this is but the beautie of the fleſh <hi>which withereth and decaieth like graſſe,</hi> 1. <hi>Pet.</hi> 1.24.</p>
+            <pb n="36" facs="tcp:173768:26"/>
+            <p> But their beautie is an euerlaſting beautie, which excel<g ref="char:EOLhyphen"/>leth the beautie of all other Princes in Chriſtendome, and like the Sunne appeares glorious to the whole World, their beautie is the Deuine beautie of their ſoules, made and fa<g ref="char:EOLhyphen"/>ſhioned after the image of Chriſt Ieſus. The holy plants of that Paradice they haue learned of their royall father to nou<g ref="char:EOLhyphen"/>riſh, that is, they allow and maintaine the Goſpell truely prea<g ref="char:EOLhyphen"/>ched amongſt vs, and to keepe thoſe cleere waterſprings from pollution, that is, that the word of God be not defiled with Hereſies, whereupon dependeth a great hope of the proſpe<g ref="char:EOLhyphen"/>rous eſtate of this kingdome, for the Lord hath promiſed, <hi>that whoſoeuer meditateth his word continually, his daies ſhall be mul<g ref="char:EOLhyphen"/>tiplied, and the daies of his children, as long as the Heauens are aboue the earth, Deut.</hi> 11.21.</p>
+            <q>
+               <l>
+                  <hi>30.</hi> And how prouiſion is by Vertue made</l>
+               <l>To keepe the Caterpillers from the Trees,</l>
+               <l>Js thus; A fire vnderneath is laide,</l>
+               <l>Whoſe ſmoake conſumes them, as in ſwarmes of Bees</l>
+               <l>Is vſed commonly to rid the Drones,</l>
+               <l>And ſo they proue continuall fruitfull ones.</l>
+            </q>
+            <p>Vnder the name of Vertue is comprehended our royall King <hi>Iames,</hi> for whoſe deſert no leſſe name can be giuen him, ſeeing that God hath endued him with ſuch full meaſure of Faith, knowledge, temperance, and godlineſſe, which is eui<g ref="char:EOLhyphen"/>dently ſeene in that he is continually carefull and prouident that the Goſpell of Chriſt may haue free propagation, and ſo proue fruitfull amongſt his ſubiects, and that it be not hurt or violated by ill affected people, who as Caterpillers are con<g ref="char:EOLhyphen"/>ſumed with fire, ſo are they vtterly deſtroied by the truth of the word profeſſed, <hi>which is alſo compared to fire, Luke.</hi> 12.49.</p>
+            <q>
+               <l>
+                  <hi>31.</hi> And that the Corne from Cankers may be cleane,</l>
+               <l>Thouſands of carefull Laborers are fitted,</l>
+               <l>To poliſh, cleanſe, and winnow, by which meane,</l>
+               <l>None but good Seede is to the ground committed:</l>
+               <l>The like care is to cleare the hearbs from weedes,</l>
+               <l>So there good Corne and good hearbs onely breedes.</l>
+            </q>
+            <pb n="37" facs="tcp:173768:26"/>
+            <p> That the word of God be not mingled with the falſe Do<g ref="char:EOLhyphen"/>ctrines of Heretikes, thouſands of diligent preachers are pro<g ref="char:EOLhyphen"/>uided, <hi>who are called Laborers, Math.</hi> 9.37. who as Saint <hi>Paul</hi> ſaith, 2. <hi>Cor.</hi> 4.2. <hi>haue caſt from them the cloakes of ſhame</hi> (mea<g ref="char:EOLhyphen"/>ning ſuch ſhifts and pretences as become not them that haue ſuch a great office in hand) <hi>and walke not in craftineſſe, neither handle the word of God deceitfully, but in declaration of the truth approue themſelues to euery mans conſcience in the ſight of God:</hi> And ſo deliuer the word of God purely to the people.</p>
+            <q>
+               <l>
+                  <hi>32.</hi> But to keepe out that beaſtly breed of Swine,</l>
+               <l>Three thick-ſet hedges decently are placed</l>
+               <l>About the Paradice, leaſt they ſhould vndermine,</l>
+               <l>And ſo it might be vtterly defaced:</l>
+               <l>Theſe Fences being ſtrong, this ſtincking rout</l>
+               <l>Shall ne're get in, though they runne round about.</l>
+            </q>
+            <p>The three thick-ſet Hedges are three ſorts of people prin<g ref="char:EOLhyphen"/>cipally in this his Maieſties Dominions, which being true and ſincere profeſſors of the Goſpell of Chriſt, and ſtedfaſt and confident in their profeſſion, doe keepe out the Papiſts inſi<g ref="char:EOLhyphen"/>nuation and incroaching into this Kingdome, with the tradi<g ref="char:EOLhyphen"/>tions of their deuilliſh inuentions. And as long as they con<g ref="char:EOLhyphen"/>tinue in the true faith of Ieſus Chriſt, it is impoſſible that the Pope with all his hoſt of erroneous and ſubtle Clergie, ſhall euer haue any place heere, though they worke neuer ſo cloſe<g ref="char:EOLhyphen"/>ly, or diligently range about ſeeking to ſeduce from the true faith daily by cunning circumſtances, ſuch as they finde or ſuppoſe to be weake members of the Church of Chriſt.</p>
+            <q>
+               <l>
+                  <hi>33.</hi> The firſt and out-moſt hedge is guarded well</l>
+               <l>By Champions of valiant condition,</l>
+               <l>Who watch continually them to repell</l>
+               <l>With ſhield, and ſpeare, or ſword, or ſuch munition:</l>
+               <l>And if the Swine but once come neere that fence,</l>
+               <l>One of thoſe weapons ſure ſhall beate them thence.</l>
+            </q>
+            <p>The firſt outward hedge or defence conſiſteth of three de<g ref="char:EOLhyphen"/>grees of people, <hi>vizt.</hi> Noblemen, Knights and Gentlemen
+<pb n="38" facs="tcp:173768:27"/>of vertuous and Religious diſpoſition which being of the number of the faithfull, are well prouided with their ſpirituall weapons, to repell the dartes of the Papiſts. For by the ſhield, ſpeare or ſword is not meant thoſe which are material: for the exerciſe of ſuch weapons is forbidden in ſome reſpect, <hi>Math.</hi> 26.52. <hi>Put vp thy ſword</hi> (ſaith Ieſus) <hi>into his place, for all that take the ſword ſhall periſh with the ſword.</hi> And <hi>Reuel.</hi> 13.10. <hi>If any lead into Captiuitie, he ſhall goe into Captiuitie</hi> (this is meant of leading ſoules captiue) <hi>If any kill with a ſword, hee muſt be killed by a ſword. Neither indeed is it the ſword or bowe or any other materiall weapon whereby Gods children ouercome, Ioſ.</hi> 24.12. But by this ſhield is vnderſtood the ſhield of faith, by the ſword, the ſword of the ſpirit. For the faithfull haue not only to ſtriue againſt men and themſelues, but alſo againſt Satan their ſpirituall enemie, which is moſt dangerous, for he is ouer our heads ſo that we cannot reach him, and therefore he muſt be reſiſted by Gods grace. <hi>Dauid</hi> by faith feared not to fight with the Giant <hi>Goliah</hi> with a ſling and a ſtone, for he flung away from him his Armour and weapons which <hi>Saul</hi> put vpon him, 1. <hi>Sam.</hi> 17.37.39. Nay, by faith we reſiſt the De<g ref="char:EOLhyphen"/>uill, and ouercome both the World and him. 1. <hi>Iohn</hi> 5.4. <hi>For all that is borne of God ouercommeth the World, and this is the victorie that ouercommeth the World, euen our faith.</hi>
+            </p>
+            <p>Alſo in the <hi>Reuel.</hi> 19.15. the word of God is called a ſharpe two-edged ſword, in theſe words, <hi>And out of his mouth went a ſharpeſword, that with it he ſhould ſmite the Heathen, for he ſhall rule them with a rod of Yron, &amp;c.</hi> Theſe are infalliable wea<g ref="char:EOLhyphen"/>pons which the weake faith of the Papiſts is not able to reſiſt; which ſhewes that their faith is but counterfeit, and that ours is the true Catholike and Apoſtolike.</p>
+            <q>
+               <l>
+                  <hi>34.</hi> But if the Swine doe chaunce to ſneake vnſeene,</l>
+               <l>Of all that well approued outward guard,</l>
+               <l>Within their hedge a little ſpace betweene</l>
+               <l>The firſt and ſecond fence, them to reward,</l>
+               <l>Lie beagles to diſcouer the intruſion</l>
+               <l>Of thoſe, that wiſh to Paradice confuſion.</l>
+            </q>
+            <pb n="39" facs="tcp:173768:27"/>
+            <p> Vnder the name of Beagles is comprehended all ſubordi<g ref="char:EOLhyphen"/>nate officers and Miniſters, who are appointed by the ſuperi<g ref="char:EOLhyphen"/>our powers to hunt out or make inquiſition or ſearch for all ſlye Recuſants, Papiſts, Ieſuites, Prieſts and ſuch like, who cloſely ſneake and inſinuate into the boſomes and hearts of many well diſpoſed perſons, attempting to extirpate and root out their well affected thoughts.</p>
+            <q>
+               <l>
+                  <hi>35.</hi> Being ſet on by this quick-ſented crue,</l>
+               <l>The ſecond guard, being huntſ-men, ſoone prepare,</l>
+               <l>Who make thoſe Swine their boldneſſe for to rue,</l>
+               <l>By force of Iauelin, Piſtol, Pike, or Speare:</l>
+               <l>Whoſe proued ſhields, and vertue of their Armes,</l>
+               <l>Them 'gainſt a thouſand boares, will ſaue from harmes.</l>
+            </q>
+            <p>After theſe ſubordinate officers haue found out any ſuch, they report to the Iudges and Councell of this Land, who are put in the place of the ſecond Guard, &amp; are likened to huntſ<g ref="char:EOLhyphen"/>men, becauſe indeede, if the knowledge of ſuch perſons come once to their eares, either they doe vtterly ſubdue them with their ſpirituall Armes, ſtrong arguments of Religion; or elſe they chaſe them quite out of the Kingdome: whoſe wiſedome in this I cannot ſufficiently expreſſe, and whoſe worthineſſe I want experience to commend. Only thus much I haue obſer<g ref="char:EOLhyphen"/>ued in them which now ſupply thoſe eminent places of autho<g ref="char:EOLhyphen"/>ritie and iuſtice, that they haue a watchfull care for the ſup<g ref="char:EOLhyphen"/>preſſion of all hereticall and diabolicall Inuentions that may happen to proceede from the fantaſticall deluſions of ſedu<g ref="char:EOLhyphen"/>cers, and maintenance of ſuch things as ſhall tend to vertu<g ref="char:EOLhyphen"/>ous inſtitutions, and are ſo ſufficiently furniſhed with the wea<g ref="char:EOLhyphen"/>pons of the ſpirit, that a thouſand fooliſh blind Papiſts with al their philoſophicall deuices, are not able to preuaile againſt the leaſt one of them, whereby is approued the ſinceritie and truth of their Religion, &amp; the inuincible power thereof; which as it worketh in them vprightneſſe of heart; ſo it araieth them with many other vertuous induments, as mildneſſe, aſwell to poore as rich; indifferencie, in the hearing of cauſes, aſwell for ſtrangers as their friends, ſinceritie in affection, ſoundneſſe
+<pb n="40" facs="tcp:173768:28"/>in their skill and iudgement, conſtancie in their reſolutions beſides great prudence in politique gouernment, and that which is the true token of a wiſe diſcreete Iudge, to be more apt to heare, ſee, and conſider, then to ſpeake or giue iudge<g ref="char:EOLhyphen"/>ment, which ſhould be alſo in euery perſon of what degree or condition ſoeuer, ſeeing that nature hath giuen all men two eies, two eares, and but one tongue: To conclude, if any <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<g ref="char:EOLhyphen"/>tion vpon the Earth be well ſupplied with a vertuous Coun<g ref="char:EOLhyphen"/>cell and vpright Iudges, this Land may boaſt thereof, which is furniſhed with ſuch as are ſpoken of <hi>Exod.</hi> 18.21. <hi>Men of cou<g ref="char:EOLhyphen"/>rage, fearing God, men dealing truely, hating couetouſneſſe, Deut.</hi> 16.18. <hi>That iudge the people with righteous iudgement, that wreſt not the Law, nor reſpect any perſon, nor take reward, which blin<g ref="char:EOLhyphen"/>deth the wiſe and peruerteth the wordes of the iuſt.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>36.</hi> But ſay a foule Swine in a cleane beaſts skinne,</l>
+                  <l>Were cloſely put (as none but cleane come there)</l>
+                  <l>Thinking by ſubtile policie to get in,</l>
+                  <l>Yet would it be diſcried ere it come neere,</l>
+                  <l>For the third guard is clad in Armes compleat,</l>
+                  <l>And ſearch each beaſt that thither comes to eate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>37.</hi> And they with compleat furniture addreſt,</l>
+                  <l>In ſingle combat ſhunne no fierce aſſault,</l>
+                  <l>Such manly courage reſteth in their breſt,</l>
+                  <l>From an whole hoſt they neuer will reuolt,</l>
+                  <l>But fight couragiouſly and winne the day,</l>
+                  <l>And carry conqueſt for their Prize away.</l>
+               </lg>
+            </q>
+            <p>By this third Guard is meant the Reuerend and learned Biſhops of this Kingdome, which are compleat in all things that appertaine to their place and calling, and they are like a neaſt of Eagles, whoſe eies ſtedfaſtly looke vpon the Sunne without winking, whoſe iudgements diſcerne Diuine Myſte<g ref="char:EOLhyphen"/>ries, whoſe profeſſion in Eccleſiaſticall gouernment is ſutable to Chriſts and the Apoſtles preſcription, whoſe preaching &amp; writing manifeſteth the truth of their Religion, and whoſe godlineſſe and vertue is ſeene by their life and conuerſation whoſe learning aboundeth like the Sea, and whoſe wiſedome
+<pb n="41" facs="tcp:173768:28"/>extendeth throughout the whole Land, God forbid that euer baſtard egge ſhould be hatcht in this neaſt, for what greater confuſion then errors &amp; diuiſions in Religion? Theſe are they that ſearch the Papiſts inſide though they appeare neuer ſo faire in the outſide. Theſe are the Tutch-ſtones that trie the falſe faith of Recuſants, Theſe make the Prieſts and Ieſuites appeare to the World as they are, like the Scribes and Phari<g ref="char:EOLhyphen"/>ſes, <hi>Math.</hi> 23.21. <hi>Hypocrites which make cleane the outſide of the cup and of the platter, but within they are full of bribery and ex<g ref="char:EOLhyphen"/>ceſſe, And like painted Tombes which appeare beautifull outward, but within are full of dead mens bones and of all filthineſſe:</hi> Theſe are Gods warriors and Champions <hi>that are ſtrong in the Lord, and in the power of his might, Epheſ.</hi> 6.10. <hi>That haue put on the whole Armour of God, their loines girded with veritie, and hauing on the breſt-plate of righteouſneſſe, and their feele ſhod with the preparation of the Goſpell of peace, and haue taken the ſhield of faith, the helmet of Saluation, and the ſword of the ſpirit.</hi> Let no ſimple Romiſh Catholike preſume to make triall of their pro<g ref="char:EOLhyphen"/>found knowledge, leſt as they deſerue, they ſuffer a diſgrace<g ref="char:EOLhyphen"/>full repulſe.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>38.</hi> This goodly Paradice thus is ſafely kept</l>
+                  <l>From vncleane beaſts, chiefely from Wolues and Boares</l>
+                  <l>By Vertues care, and prouident reſpect,</l>
+                  <l>Who chiefe Commander is, and keepes the dores,</l>
+                  <l>And lets all in and out, and ſets theſe guards,</l>
+                  <l>(Whom for their paines he daily giues rewards)</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>39.</hi> And ſo the Lambes and ſilly Sheepe feed free</l>
+                  <l>From the Wolues rapine, and the Swines infection,</l>
+                  <l>Plentie of Corne is alwaies ſeene to bee,</l>
+                  <l>And fruits great ſtore, by Vertues good direction,</l>
+                  <l>Good Sallet hearbes abundant, water cleere</l>
+                  <l>(As if it were diſtil'd) in Riuers there.</l>
+               </lg>
+            </q>
+            <p>Oh that I had the ſpirit of perfect wiſedome, that I might heere ſet forth our <hi>Salomon,</hi> our Royall king in his true ſhape, of whoſe excellencie I am rauiſht with admiration, <hi>O King, the Lord hath annoi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with his holy Oile, as he annointed his ſer<g ref="char:EOLhyphen"/>uant
+<pb n="42" facs="tcp:173768:29"/>Dauid, Pſ.</hi> 79.20. <hi>Proſper with thy glory, Ride vpon the word of truth, and of meekeneſſe, and righteouſneſſe, Pſ.</hi> 45.2.4. It is thy goodneſſe and carefull prouidence O King to elect ſuch wor<g ref="char:EOLhyphen"/>thy and wiſe Biſhops, Councell, Nobilitie and Iudges, for the defence of this Kingdome, who are as Guards and bulwarkes, Forts and defences againſt the Rauening Wolues, the merci<g ref="char:EOLhyphen"/>leſſe Papiſts, (who as they are the enemies of Chriſt may bee ſo called, <hi>Mat.</hi> 10.16. alſo) <hi>That ſeeke to deuourethe ſillie Lambs</hi> your poore ſubiects. <hi>Acts</hi> 20.29.</p>
+            <p>Thou art the ſole Commander and Supreame head vnder God of this our temporal Paradice, the Lord make thee great in the Kingdome of Heauen at the day of thy diſſolution. By thy protection we haue plenty of ſpirituall Corne, the bread of life: plentie of ſpirituall fruits and hearbs, the foode of the ſoule: and plentie of ſpirituall water to refreſh our ſpirits; to wit, the Word of God truly taught amongſt vs, the Goſpell of Chriſt Ieſus; which as I haue ſhewed before, is thus in ſeuerall places ſo compared. And vnder thee O King we are happy aboue many other Nations for the peace and tranquilitie of our Land.</p>
+            <q>
+               <l>
+                  <hi>40.</hi> And thoſe three Guardes me thought deuoutly prai'd</l>
+               <l>For the continuance of this heauenly place,</l>
+               <l>And God graunt Vertue happineſſe they ſaid,</l>
+               <l>And his poſteritie, with increaſe of grace</l>
+               <l>Mercy, and peace, for euermore. And then</l>
+               <l>Legions of Angels anſwered, Amen.</l>
+            </q>
+            <p>S<hi rend="sup">t.</hi> 
+               <hi>Paul</hi> writing to <hi>Timothy,</hi> 1. <hi>Tim.</hi> 2.23. declares, that <hi>it is a good and acceptable thing in the ſight of God our Sauiour, that ſupplications, praiers and interceſſions be made for Kings and for all that be in authoritie,</hi> And heerein is obſerued the allegiance of theſe eminent perſons and the generall loue and dutie of the people, whoſe daily Inuocations of God according to the Apoſtles direction, are deuoutly made for all Spirituall and Temporall bleſſings to be multiplied vpon the King and his Royall iſſue, which, the Lord grant may be infinite without number or meaſure. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173768:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
